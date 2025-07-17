@@ -8,3 +8,31 @@ Data Structures and Algorithms
   - Working of Bubble Sort
   - Check the Bubble Sort documentation here:  
   - [Bubble_Sort.txt](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Bubble_Sort.txt)
+  - Code of Bubble Sort
+  - [Bubble_Sort.java](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Bubble_Sort.java)
+  - Time Complexity of Bubble Sort
+  - Best Case : O(n)
+  - Average Case : O(n^2)
+  - Worst Case : O(n^2)
+
+  # Insertion SORT
+  - Working of Bubble Sort
+  - Check the Bubble Sort documentation here:  
+  - [Inserion.txt](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Inserion_Sort.txt)
+  - Code of Bubble Sort
+  - [Inserion.java](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Inserion_Sort.java)
+  - Time Complexity of Insertion Sort
+  - Best Case : O(n)
+  - Average Case : O(n^2)
+  - Worst Case : O(n^2)
+
+  # Selection SORT
+  - Working of Bubble Sort
+  - Check the Bubble Sort documentation here:  
+  - [Selection.txt](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Selection_Sort.txt)
+  - Code of Bubble Sort
+  - [Selection.java](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Selection.java)
+  - Time Complexity of Selection Sort
+  - Best Case : O(n^2)
+  - Average Case : O(n^2)
+  - Worst Case : O(n^2)
