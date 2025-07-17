@@ -7,4 +7,4 @@ Data Structures and Algorithms
   # BUBBLE SORT
   - Working of Bubble Sort
   - Check the Bubble Sort documentation here:  
-  - [Bubble_Sort.txt](https://github.com/vinayakmishra4/ALGO-LEARNING/blob/main/Sort%20Algo/Bubble_Sort.txt)
+  - [Bubble_Sort.txt](https://github.com/vinayakmishra4/ALGO-LEARNING/blob/main/Sort-Algo/Bubble_Sort.txt)
