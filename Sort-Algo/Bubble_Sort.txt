@@ -1,0 +1,40 @@
+<--------------------------------------------------BUBBLE SORTING ALGORITHM------------------------------------------------------>
+Basic Princple of Bubble Sort Algorithm:
+1. Start from the beginning of the array.
+2. Compare the adjacent elements and swap them if they are in wrong order.
+3. Repeat the above steps until the array is sorted.
+4. The last element of the array is the largest element.
+Working Princple of Bubble Sort Algorithm:
+Take an array for example array of integers: [5, 2, 8, 1, 9]
+1. Start from the beginning of the array.
+2. Compare the adjacent elements: 5 and 2. Since 5 is greater than
+2, swap them. The array becomes: [2, 5, 8, 1,9].
+3. Compare the adjacent elements: 5 and 8. Since 5 is less than 8, no swap is needed. The array remains: [2, 5, 8,1, 9].
+4. Compare the adjacent elements: 8 and 1. Since 8 is greater than 1, swap them. The array becomes: [2, 5, 1, 8,9]
+5. Compare the adjacent elements: 8 and 9. Since 8 is less than 9, no swap is needed. The array remains: [2, 5, 1,8,9]
+6. Compare the adjacent elements: 9 and 5. Since 9 is greater than 5, swap them. The array becomes: [2, 1, 5, 8]
+7. Compare the adjacent elements: 5 and 8. Since 5 is less than 8, no swap is needed. The array remains: [2, 1, 5,8, 9]
+8.Compare the adjacent element : 8 and 9. Since 8 is less than 9, no swap is needed
+9.The array remains: [2, 1, 5, 8, 9]
+Repeat the above steps until the array is sorted.
+and sorted array is this : [1, 2, 5, 8, 9]
+<-------------------------------------------------PSEUDOCODE--------------------------------------------------------------------->
+Procedure BubbleSort(arr, n)
+    For i from 0 to n - 2 do
+        For j from 0 to n - 2 - i do
+            If arr[j] > arr[j + 1] then
+                Swap arr[j] and arr[j + 1]
+            End If
+        End For
+    End For
+End Procedure
+<----------------------------------------------------TIME COMPLEXTIY----------------------------------------------------------->
+Time Complexity of Bubble Sort Algorithm:
+Best Case: O(n) when the array is already sorted.
+Average Case: O(n^2) when the array is randomly sorted.
+Worst Case: O(n^2) when the array is reverse sorted.
+<----------------------------------------------------THANK YOU----------------------------------------------------------->
+
+
+
+
