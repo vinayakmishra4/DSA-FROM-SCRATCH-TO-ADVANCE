@@ -1,0 +1,50 @@
+Quick Sort Algorithm
+
+Time Complexity:
+- Best Case: O(n log n)
+- Average Case: O(n log n)
+- Worst Case: O(n²) – occurs when the pivot selection is poor (e.g., always choosing the smallest or largest element)
+
+Space Complexity:
+- O(log n) – due to recursive stack calls (in-place sorting if implemented properly)
+
+Stable: ❌ (Not stable by default)
+Adaptive: ❌
+
+Working Principle:
+- Quick Sort is a divide-and-conquer algorithm.
+- It picks a "pivot" element and partitions the array into two subarrays:
+  1. Elements less than the pivot.
+  2. Elements greater than the pivot.
+- The pivot is then placed in its correct sorted position.
+- The process is recursively applied to the subarrays.
+
+Steps:
+1. Choose a pivot element (e.g., last element, first element, random, or median).
+2. Partition the array such that:
+   - All elements smaller than the pivot go to the left.
+   - All elements greater than the pivot go to the right.
+3. Recursively apply steps 1 and 2 to the subarrays.
+
+Pseudocode:
+quickSort(array, low, high):
+    if low < high:
+        pivot_index = partition(array, low, high)
+        quickSort(array, low, pivot_index - 1)
+        quickSort(array, pivot_index + 1, high)
+
+partition(array, low, high):
+    pivot = array[high]
+    i = low - 1
+    for j from low to high - 1:
+        if array[j] <= pivot:
+            i = i + 1
+            swap array[i] with array[j]
+    swap array[i + 1] with array[high]
+    return i + 1
+
+Use Case:
+- Very efficient for large datasets.
+- Commonly used in practice due to its average-case efficiency.
+- Not ideal when stability is required or worst-case performance must be avoided
+  (unless optimized with randomized or median-of-three pivot selection).
