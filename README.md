@@ -36,3 +36,15 @@ Data Structures and Algorithms
   - Best Case : O(n^2)
   - Average Case : O(n^2)
   - Worst Case : O(n^2)
+
+  # Quick Sort
+  - Working of Quick Sort
+  - Check the Quick Sort documentation here:
+  - [Quick_Sort.txt](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Quick_Sort.txt)
+  - Code of Quick Sort
+  - [Quick_Sort.java](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Quick_Sort.java)
+  - Time Complexity of Quick Sort
+  - Best Case : O(n log n)
+  - Average Case : O(n log n)
+  - Worst Case : O(n^2)
+
