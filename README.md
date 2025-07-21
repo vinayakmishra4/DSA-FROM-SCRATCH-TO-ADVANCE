@@ -57,7 +57,8 @@ Data Structures and Algorithms
 
 # PHASE-2
   # ARRAY-EASY
-  - 1.Maximum element of Array
+  - 1.Largset element of Array
   - [Maxout](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Maxout.java)
-  
+  - 2.Second Largest element of Array
+  - [SecondMaxout](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/SecondMaxout.java)
 
