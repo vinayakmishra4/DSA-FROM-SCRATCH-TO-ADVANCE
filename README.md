@@ -55,3 +55,9 @@ Data Structures and Algorithms
   - Code of Merge Sort
   - [Merge_Sort](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Merge_sort.java)
 
+# PHASE-2
+  # ARRAY-EASY
+  - 1.Maximum element of Array
+  - [Maxout](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Maxout.java)
+  
+
