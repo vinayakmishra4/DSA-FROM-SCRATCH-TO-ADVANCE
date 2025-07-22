@@ -61,4 +61,6 @@ Data Structures and Algorithms
   - [Maxout](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Maxout.java)
   - 2.Second Largest element of Array
   - [SecondMaxout](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/SecondMaxout.java)
+  - 3. Check if array is sorted or not
+  - [CheckSorted](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Sortedornot)
 
