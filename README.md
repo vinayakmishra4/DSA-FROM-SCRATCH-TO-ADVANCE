@@ -65,4 +65,5 @@ Data Structures and Algorithms
   - [CheckSorted](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Sortedornot)
   - 4.Remove duplicates from array
   - [RemoveDuplicates](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Remove.java)
-
+  - 5.Rotate array by one position
+  - [RotateArray](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/RotateLeft.java)
