@@ -69,3 +69,6 @@ Data Structures and Algorithms
   - [RotateArray](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/RotateLeft.java)
   - 6.Move all zeros to the end of array
   - [Move0](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Move0.java)
+  - 7.Linear Sreach of element
+  - [LinearSearch](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Linear.java)
+
