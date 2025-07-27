@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// WAP to move all zero to end
 class Move0 
 {
     public static int[] moveZeros(int n, int[] arr) {
