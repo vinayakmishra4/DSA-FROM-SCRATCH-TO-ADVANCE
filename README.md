@@ -67,3 +67,5 @@ Data Structures and Algorithms
   - [RemoveDuplicates](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Remove.java)
   - 5.Rotate array by one position
   - [RotateArray](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/RotateLeft.java)
+  - 6.Move all zeros to the end of array
+  - [Move0](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Move0.java)
