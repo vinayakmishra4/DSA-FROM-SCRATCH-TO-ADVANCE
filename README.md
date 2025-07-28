@@ -73,5 +73,7 @@ Data Structures and Algorithms
   - [LinearSearch](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Linear.java)
   - 8.Union in the array
   - [Union](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Union.java)
+  - 9.Missing elment in the array
+  - [MissingElement](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Missing.java)
 
 
