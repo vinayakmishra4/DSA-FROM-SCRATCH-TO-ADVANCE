@@ -75,5 +75,7 @@ Data Structures and Algorithms
   - [Union](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Union.java)
   - 9.Missing elment in the array
   - [MissingElement](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Missing.java)
+  - 10.Maximum Consecutive One's in the array
+  - [MaxConsecutiveOne](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/maxConsecBits.java)
 
 
