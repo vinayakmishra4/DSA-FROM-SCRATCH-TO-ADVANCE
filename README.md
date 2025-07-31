@@ -1,14 +1,5 @@
-<p align="center">
-  <img src="https://img.shields.io/github/stars/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE?style=social" alt="GitHub Repo stars">
-  <img src="https://img.shields.io/github/forks/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE?style=social" alt="GitHub forks">
-  <img src="https://img.shields.io/github/license/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE" alt="GitHub license">
-</p>
-
 <h1 align="center">📘 DSA From Scratch to Advance</h1>
 <p align="center"><em>A comprehensive guide to mastering Data Structures and Algorithms from the basics to advanced concepts.</em></p>
-
-# 🚀 DSA From Scratch to Advance
-Data Structures and Algorithms
 
 ## 📚 Modules
 
