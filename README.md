@@ -1,21 +1,17 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE?style=social)
+![GitHub forks](https://img.shields.io/github/forks/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE?style=social)
+![GitHub license](https://img.shields.io/github/license/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE)
+
 ---
 title: 📘 DSA From Scratch to Advance
 description: A comprehensive guide to mastering Data Structures and Algorithms from the basics to advanced concepts.
 ---
 
-## 🧭 Table of Contents
-- [Modules](#modules)
-  - [Phase 1: Sorting Algorithms](#phase-1-sorting-algorithms)
-  - [Phase 2: Easy Array Problems](#phase-2-easy-array-problems)
-- [Keep Learning](#keep-learning-and-coding-this-guide-evolves-as-you-grow-in-dsa)
-
 # 🚀 DSA From Scratch to Advance
 Data Structures and Algorithms
 
 ## 📚 Modules
-<a name="modules"></a>
 
-<a name="phase-1-sorting-algorithms"></a>
 ### 🔹 Phase 1: Sorting Algorithms
 
 #### 🫧 Bubble Sort
@@ -54,7 +50,6 @@ Data Structures and Algorithms
 - 📖 **Working**: [Documentation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Merge_sort.txt)
 - 🧑‍💻 **Code**: [Java Implementation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Merge_sort.java)
 
-<a name="phase-2-easy-array-problems"></a>
 ### 🔹 Phase 2: Easy Array Problems
 - 🔍 **1. Largest Element of Array**  
   [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Maxout.java)
@@ -79,7 +74,21 @@ Data Structures and Algorithms
 - 🔍 **11. Unique Element in the Array**  
   [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Uniquele.java)
 
-<a name="keep-learning-and-coding-this-guide-evolves-as-you-grow-in-dsa"></a>
+
 ---
 
 ✨ *Keep learning and coding! This guide evolves as you grow in DSA.* 💡
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request.
+
+1. Fork the repo
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+Please follow the existing code style and include comments/documentation.
