@@ -1,12 +1,11 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE?style=social)
-![GitHub forks](https://img.shields.io/github/forks/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE?style=social)
-![GitHub license](https://img.shields.io/github/license/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE)
+<p align="center">
+  <img src="https://img.shields.io/github/stars/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE?style=social" alt="GitHub Repo stars">
+  <img src="https://img.shields.io/github/forks/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE?style=social" alt="GitHub forks">
+  <img src="https://img.shields.io/github/license/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE" alt="GitHub license">
+</p>
 
----
-title: 📘 DSA From Scratch to Advance
-description: A comprehensive guide to mastering Data Structures and Algorithms from the basics to advanced concepts.
-
----
+<h1 align="center">📘 DSA From Scratch to Advance</h1>
+<p align="center"><em>A comprehensive guide to mastering Data Structures and Algorithms from the basics to advanced concepts.</em></p>
 
 # 🚀 DSA From Scratch to Advance
 Data Structures and Algorithms
@@ -75,6 +74,10 @@ Data Structures and Algorithms
 - 🔍 **11. Unique Element in the Array**  
   [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Uniquele.java)
 
+
+---
+
+🌟 *Thank you for visiting this repository. Happy Coding!* 🚀
 
 ---
 
