@@ -1,5 +1,11 @@
-<h1 align="center">📘 DSA From Scratch to Advance</h1>
-<p align="center"><em>A comprehensive guide to mastering Data Structures and Algorithms from the basics to advanced concepts.</em></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-8%2B-red.svg" alt="Java Version">
+  <img src="https://img.shields.io/github/license/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE" alt="License: MIT">
+  <img src="https://img.shields.io/github/repo-size/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE" alt="Repo Size">
+</p>
+
+<h1 align="center">💻 Java DSA Learning</h1>
+<p align="center"><em>Structured from Scratch to Advance with code and documentation for every DSA topic</em></p>
 
 ## 📚 Modules
 
@@ -76,6 +82,13 @@
 
 ---
 
+## 🔧 Prerequisites
+- Java 8 or higher
+- An IDE like IntelliJ, VS Code, or Eclipse
+- Basic knowledge of programming
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request.
@@ -87,3 +100,8 @@ Contributions are welcome! Please fork the repository and create a pull request.
 5. Open a Pull Request
 
 Please follow the existing code style and include comments/documentation.
+
+---
+
+## 📄 License
+This project is open source and available under the [MIT License](LICENSE).
