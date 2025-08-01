@@ -4,13 +4,18 @@
   <img src="https://img.shields.io/github/repo-size/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE" alt="Repo Size">
 </p>
 
-<h1 align="center">🚀 Master Java DSA from Scratch to Advanced 💡</h1>
-<p align="center"><em>Your complete roadmap to crack DSA with clarity, hands-on code examples, and deep-dive explanations!</em></p>
+<h1 align="center">🔥 Master Java DSA: From Scratch to Advanced 🚀</h1>
+<p align="center"><em>🧠 Ace Data Structures and Algorithms with structured lessons, real Java code, and visual clarity!</em></p>
+
+---
+## 🗺️ What’s Inside?
+Explore a step-by-step journey to mastering Java DSA!
+---
 
 ## 🧭 Learning Roadmap
 
 <hr>
-### 🔹 Phase 1: Sorting Algorithms
+## 📊 Phase 1: Sorting Algorithms Demystified
 
 #### 🫧 Bubble Sort
 - 📖 **Working**: [Documentation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Bubble_Sort.txt)
@@ -49,7 +54,9 @@
 - 🧑‍💻 **Code**: [Java Implementation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Merge_sort.java)
 
 <hr>
-### 🔹 Phase 2: Easy Array Problems
+
+## 🔢 Phase 2: Easy Array Challenges You Must Know
+
 - 🔢 **1. Largest Element of Array**  
   [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Maxout.java)
 - 🔢 **2. Second Largest Element of Array**  
@@ -73,6 +80,10 @@
 - 🧩 **11. Unique Element in the Array**  
   [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Uniquele.java)
 
+## 🧠 Phase 3: Level-Up With Medium Array Problems
+
+- 🔢 **1.Two sum problem**
+    [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Twosum.java)
 
 ---
 
@@ -86,21 +97,22 @@
 
 ---
 
-🔔 **Stay tuned for more updates and new DSA challenges added regularly!**  
-🌈 *Don't forget to ⭐ star this repo if you find it helpful!*
+🚨 **We're constantly updating this roadmap – new challenges, tips, and tricks are added regularly!**  
+⭐ *Found it helpful? Give this repo a star and share it with others!*
 
 ---
 
 ## 🔧 Prerequisites
-- Java 8 or higher
-- An IDE like IntelliJ, VS Code, or Eclipse
-- Basic knowledge of programming
+- ☕ Java 8 or higher
+- 💻 IDE like IntelliJ, VS Code, or Eclipse
+- 👶 Basic programming knowledge
 
 ---
 
 ## 🤝 Contributing
 
-🙌 Contributions Welcome! Please fork the repository and create a pull request.
+🙌 Contributions are not just welcome—they're celebrated!
+Follow these steps to become a part of the journey:
 
 1. Fork the repo
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -109,6 +121,10 @@
 5. Open a Pull Request
 
 Please follow the existing code style and include comments/documentation.
+
+---
+
+> 💬 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
 ---
 
