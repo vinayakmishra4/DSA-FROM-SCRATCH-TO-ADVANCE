@@ -6,13 +6,17 @@ class Linear
 {
    public static boolean  search(int arr[], int n, int x)
    {
+       // Iterate through each element in the array
        for(int i=0;i<n;i++)
        {
-        if(arr[i]==x)
-        {
-           return true;
-        }
+           // Check if current element matches the target
+           if(arr[i]==x)
+           {
+               // If match found, return true
+               return true;
+           }
        }
+       // If no match found in the entire array, return false
        return false;
    }
    public static void main(String[] args)
