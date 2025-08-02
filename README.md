@@ -14,7 +14,6 @@ Explore a step-by-step journey to mastering Java DSA!
 
 ## 🧭 Learning Roadmap
 
-<hr>
 ## 📊 Phase 1: Sorting Algorithms Demystified
 
 #### 🫧 Bubble Sort
