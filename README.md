@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-8%2B-red.svg" alt="Java Version">
   <img src="https://img.shields.io/github/license/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE" alt="License: MIT">
@@ -5,121 +6,118 @@
 </p>
 
 <h1 align="center">🔥 Master Java DSA: From Scratch to Advanced 🚀</h1>
-<p align="center"><em>🧠 Ace Data Structures and Algorithms with structured lessons, real Java code, and visual clarity!</em></p>
+
+<p align="center"><em>🧠 Ace Data Structures and Algorithms with structured lessons, clean Java code, and visual clarity!</em></p>
 
 ---
+
 ## 🗺️ What’s Inside?
-Explore a step-by-step journey to mastering Java DSA!
+
+Embark on a step-by-step journey through Java DSA—from the very basics to pro-level concepts!
+
 ---
 
 ## 🧭 Learning Roadmap
 
-## 📊 Phase 1: Sorting Algorithms Demystified
+### 📊 Phase 1: Sorting Algorithms Demystified
+
+> Learn how popular sorting algorithms work with clean Java code and proper complexity analysis.
 
 #### 🫧 Bubble Sort
-- 📖 **Working**: [Documentation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Bubble_Sort.txt)
-- 🧑‍💻 **Code**: [Java Implementation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Bubble_Sort.java)
-- ⏱ **Time Complexity**:
-  - Best: O(n)
-  - Average: O(n²)
-  - Worst: O(n²)
 
-#### 🫧 Insertion Sort
-- 📖 **Working**: [Documentation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Insertion_Sort.txt)
-- 🧑‍💻 **Code**: [Java Implementation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Insertion_Sort.java)
-- ⏱ **Time Complexity**:
-  - Best: O(n)
-  - Average: O(n²)
-  - Worst: O(n²)
+* 📘 [How it Works](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Bubble_Sort.txt)
+* 💻 [Java Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Bubble_Sort.java)
+* ⏱ **Time Complexity**
 
-#### 🫧 Selection Sort
-- 📖 **Working**: [Documentation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Selection_Sort.txt)
-- 🧑‍💻 **Code**: [Java Implementation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Selection.java)
-- ⏱ **Time Complexity**:
-  - Best: O(n²)
-  - Average: O(n²)
-  - Worst: O(n²)
+  * Best: `O(n)`
+  * Avg: `O(n²)`
+  * Worst: `O(n²)`
 
-#### 🫧 Quick Sort
-- 📖 **Working**: [Documentation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Quick_Sort.txt)
-- 🧑‍💻 **Code**: [Java Implementation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Quick_Sort.java)
-- ⏱ **Time Complexity**:
-  - Best: O(n log n)
-  - Average: O(n log n)
-  - Worst: O(n²)
+#### ✍️ Insertion Sort
 
-#### 🫧 Merge Sort
-- 📖 **Working**: [Documentation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Merge_sort.txt)
-- 🧑‍💻 **Code**: [Java Implementation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Merge_sort.java)
+* 📘 [How it Works](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Insertion_Sort.txt)
+* 💻 [Java Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Insertion_Sort.java)
+* ⏱ **Time Complexity**
 
-<hr>
+  * Best: `O(n)`
+  * Avg/Worst: `O(n²)`
 
-## 🔢 Phase 2: Easy Array Challenges You Must Know
+#### 🔎 Selection Sort
 
-- 🔢 **1. Largest Element of Array**  
-  [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Maxout.java)
-- 🔢 **2. Second Largest Element of Array**  
-  [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/SecondMaxout.java)
-- 🔍 **3. Check If Array Is Sorted or Not**  
-  [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Sortedornot)
-- 🧹 **4. Remove Duplicates From Array**  
-  [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Remove.java)
-- 🔁 **5. Rotate Array by One Position**  
-  [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/RotateLeft.java)
-- 0️⃣ **6. Move All Zeros to the End of Array**  
-  [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Move0.java)
-- 🔎 **7. Linear Search of Element**  
-  [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Linear.java)
-- ➕ **8. Union in the Array**  
-  [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Union.java)
-- ❓ **9. Missing Element in the Array**  
-  [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Missing.java)
-- 🔢 **10. Maximum Consecutive One's in the Array**  
-  [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/maxConsecBits.java)
-- 🧩 **11. Unique Element in the Array**  
-  [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Uniquele.java)
+* 📘 [How it Works](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Selection_Sort.txt)
+* 💻 [Java Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Selection.java)
+* ⏱ `O(n²)` in all cases
 
-## 🧠 Phase 3: Level-Up With Medium Array Problems
+#### ⚡ Quick Sort
 
-- 🔢 **1.Two sum problem**
-    [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Twosum.java)
+* 📘 [How it Works](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Quick_Sort.txt)
+* 💻 [Java Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Quick_Sort.java)
+* ⏱
+
+  * Best/Average: `O(n log n)`
+  * Worst: `O(n²)`
+
+#### 🧩 Merge Sort
+
+* 📘 [How it Works](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Merge_sort.txt)
+* 💻 [Java Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Merge_sort.java)
+* ⏱ Always: `O(n log n)`
 
 ---
 
-🌟 *Thank you for visiting this repository. Happy Coding!* 🚀
+### 🔢 Phase 2: Easy Array Challenges You Must Know
+
+Sharpen your skills with beginner-friendly yet fundamental problems.
+
+| 🔢 Problem                 | 📎 Link                                                                                                       |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| 1️⃣ Largest Element        | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Maxout.java)        |
+| 2️⃣ Second Largest Element | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/SecondMaxout.java)  |
+| 🔍 Check If Sorted         | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Sortedornot)        |
+| 🧹 Remove Duplicates       | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Remove.java)        |
+| 🔁 Rotate by One Position  | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/RotateLeft.java)    |
+| 0️⃣ Move All Zeros to End  | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Move0.java)         |
+| 🔎 Linear Search           | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Linear.java)        |
+| ➕ Union of Arrays          | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Union.java)         |
+| ❓ Find Missing Element     | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Missing.java)       |
+| 🔢 Max Consecutive 1s      | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/maxConsecBits.java) |
+| 🧩 Unique Element          | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Uniquele.java)      |
 
 ---
 
-✨ *Keep learning and coding! This guide evolves as you grow in DSA.* 💡
+### 🧠 Phase 3: Level-Up With Medium Array Problems
 
----
-
----
-
-🚨 **We're constantly updating this roadmap – new challenges, tips, and tricks are added regularly!**  
-⭐ *Found it helpful? Give this repo a star and share it with others!*
+| ⚙️ Problem         | 📎 Link                                                                                                  |
+| ------------------ | -------------------------------------------------------------------------------------------------------- |
+| 🔢 Two Sum Problem | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Twosum.java) |
 
 ---
 
 ## 🔧 Prerequisites
-- ☕ Java 8 or higher
-- 💻 IDE like IntelliJ, VS Code, or Eclipse
-- 👶 Basic programming knowledge
+
+Before diving in:
+
+* ☕ Java 8 or higher installed
+* 🛠️ IDE: IntelliJ / Eclipse / VS Code
+* 👶 Basic programming knowledge
 
 ---
 
 ## 🤝 Contributing
 
-🙌 Contributions are not just welcome—they're celebrated!
-Follow these steps to become a part of the journey:
+🙌 **We welcome contributions!** Follow these steps:
 
-1. Fork the repo
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Fork this repo
+2. Create your branch: `git checkout -b feature/YourFeature`
+3. Commit changes: `git commit -m 'Add: YourFeature'`
+4. Push: `git push origin feature/YourFeature`
+5. Open a Pull Request 🚀
 
-Please follow the existing code style and include comments/documentation.
+Please ensure:
+
+* Consistent code style
+* Comment your logic clearly
+* Keep it beginner-friendly
 
 ---
 
@@ -128,4 +126,16 @@ Please follow the existing code style and include comments/documentation.
 ---
 
 ## 📄 License
-This project is open source and available under the [MIT License](LICENSE).
+
+Licensed under the [MIT License](LICENSE).
+
+---
+
+📣 **Stay tuned for more updates—new challenges, tips, and optimizations coming regularly!**
+🌟 Found this helpful? Star ⭐ the repo and share it with your peers!
+
+---
+
+**Happy Coding! 🚀 Keep Learning, Keep Building. 💡**
+
+---
