@@ -22,33 +22,33 @@ Embark on a step-by-step learning journey—from DSA basics to advanced concepts
 > **Understand and implement key sorting algorithms** with visual explanations and clean Java code.
 
 #### 🫧 **Bubble Sort**
-- 📘 [Explanation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Bubble_Sort.txt)
+- 📘 [Explanation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Bubble_Sort.md)
 - 💻 [Java Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Bubble_Sort.java)
 - ⏱ **Time Complexity**:  
   - Best: `O(n)`  
   - Average/Worst: `O(n²)`  
 
 #### ✍️ **Insertion Sort**
-- 📘 [Explanation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Insertion_Sort.txt)
+- 📘 [Explanation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Insertion_Sort.md)
 - 💻 [Java Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Insertion_Sort.java)
 - ⏱ **Time Complexity**:  
   - Best: `O(n)`  
   - Average/Worst: `O(n²)`  
 
 #### 🔎 **Selection Sort**
-- 📘 [Explanation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Selection_Sort.txt)
+- 📘 [Explanation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Selection_Sort.md)
 - 💻 [Java Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Selection.java)
 - ⏱ **Time Complexity**: `O(n²)` (All cases)
 
 #### ⚡ **Quick Sort**
-- 📘 [Explanation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Quick_Sort.txt)
+- 📘 [Explanation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Quick_Sort.md)
 - 💻 [Java Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Quick_Sort.java)
 - ⏱ **Time Complexity**:  
   - Best/Average: `O(n log n)`  
   - Worst: `O(n²)`  
 
 #### 🧩 **Merge Sort**
-- 📘 [Explanation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Merge_sort.txt)
+- 📘 [Explanation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Merge_sort.md)
 - 💻 [Java Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Merge_sort.java)
 - ⏱ **Time Complexity**: `O(n log n)` (All cases)
 
