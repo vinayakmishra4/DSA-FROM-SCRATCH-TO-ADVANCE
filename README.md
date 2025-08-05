@@ -4,112 +4,90 @@
   <img src="https://img.shields.io/github/repo-size/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE" alt="Repo Size">
 </p>
 
-<h1 align="center">🔥 **Master Java DSA: From Scratch to Advanced** 🚀</h1>
+<h1 align="center">🔥 Master Java DSA: From Scratch to Advanced 🚀</h1>
 
 <p align="center"><em>🧠 Ace Data Structures and Algorithms with structured lessons, clean Java code, and visual clarity!</em></p>
 
 ---
 
-## 🗺️ **What’s Inside?**
-Embark on a step-by-step learning journey—from DSA basics to advanced concepts—all in Java. 🌱
+## 🗺️ What’s Inside?
+
+Embark on a structured journey to master DSA—from fundamentals to advanced techniques—all implemented in Java. 🌱
 
 ---
 
-## 🧭 **Learning Roadmap**
+## 🧭 Learning Roadmap
 
-### 📊 **Phase 1: Sorting Algorithms Demystified**
+### 📊 Phase 1: Sorting Algorithms Demystified
 
-> **Understand and implement key sorting algorithms** with visual explanations and clean Java code.
+> Grasp core sorting techniques with visual explanations and intuitive Java code.
 
-#### 🫧 **Bubble Sort**
-- 📘 [Explanation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Bubble_Sort.md)
-- 💻 [Java Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Bubble_Sort.java)
-- ⏱ **Time Complexity**:  
-  - Best: `O(n)`  
-  - Average/Worst: `O(n²)`  
-
-#### ✍️ **Insertion Sort**
-- 📘 [Explanation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Insertion_Sort.md)
-- 💻 [Java Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Insertion_Sort.java)
-- ⏱ **Time Complexity**:  
-  - Best: `O(n)`  
-  - Average/Worst: `O(n²)`  
-
-#### 🔎 **Selection Sort**
-- 📘 [Explanation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Selection_Sort.md)
-- 💻 [Java Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Selection.java)
-- ⏱ **Time Complexity**: `O(n²)` (All cases)
-
-#### ⚡ **Quick Sort**
-- 📘 [Explanation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Quick_Sort.md)
-- 💻 [Java Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Quick_Sort.java)
-- ⏱ **Time Complexity**:  
-  - Best/Average: `O(n log n)`  
-  - Worst: `O(n²)`  
-
-#### 🧩 **Merge Sort**
-- 📘 [Explanation](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Merge_sort.md)
-- 💻 [Java Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Merge_sort.java)
-- ⏱ **Time Complexity**: `O(n log n)` (All cases)
+| ⚙️ Algorithm       | 📘 Explanation | 💻 Code | ⏱ Time Complexity |
+|-------------------|----------------|---------|--------------------|
+| 🫧 **Bubble Sort** | [Read](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Bubble_Sort.md) | [Java](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Bubble_Sort.java) | Best: `O(n)`<br>Avg/Worst: `O(n²)` |
+| ✍️ **Insertion Sort** | [Read](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Insertion_Sort.md) | [Java](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Insertion_Sort.java) | Best: `O(n)`<br>Avg/Worst: `O(n²)` |
+| 🔎 **Selection Sort** | [Read](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Selection_Sort.md) | [Java](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Selection.java) | All: `O(n²)` |
+| ⚡ **Quick Sort** | [Read](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Quick_Sort.md) | [Java](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Quick_Sort.java) | Best/Avg: `O(n log n)`<br>Worst: `O(n²)` |
+| 🧩 **Merge Sort** | [Read](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Merge_sort.md) | [Java](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Merge_sort.java) | All: `O(n log n)` |
 
 ---
 
-## 🧩 **Easy Array Problems**
+## 🧩 Easy Array Problems
 
-> **Build strong foundations** with simple but important array-based challenges.
+> Strengthen your basics with beginner-friendly array challenges.
 
-| 💡 **Problem**                | 📘 **Description**                                                                 | 💻 **Code**                                                                                                          |
-| ---------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| 1️⃣ **Largest Element**       | Find the maximum element in an array.                                              | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Maxout.java)            |
-| 2️⃣ **Second Largest Element**| Find the second highest element without sorting.                                   | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/SecondMaxout.java)      |
-| 🔍 **Check If Sorted**        | Determine if an array is sorted in ascending order.                               | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Sortedornot)            |
-| 🧹 **Remove Duplicates**      | Remove duplicates from a **sorted** array.                                         | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Remove.java)            |
-| 🔁 **Rotate by One Position** | Left rotate array elements by one position.                                        | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/RotateLeft.java)        |
-| 0️⃣ **Move All Zeros to End** | Shift all `0`s to the end while keeping other elements' order.                    | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Move0.java)             |
-| 🔎 **Linear Search**          | Search for a specific element in an array.                                         | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Linear.java)            |
-| ➕ **Union of Arrays**        | Get union of two arrays without duplicates.                                        | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Union.java)             |
-| ❓ **Find Missing Element**   | Find the missing number in a range from 1 to N.                                    | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Missing.java)           |
-| 🔢 **Max Consecutive 1s**     | Count max consecutive `1`s in a binary array.                                      | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/maxConsecBits.java)     |
-| 🧩 **Unique Element**         | Find the unique element when all others appear twice.                              | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Uniquele.java)          |
-
----
-
-## 🧠 **Phase 3: Medium-Level Array Problems**
-
-> Push your problem-solving skills further with mid-level challenges.
-
-| ⚙️ **Problem**              | 📘 **Description**                                           | 💻 **Code**                                                                                                          |
-| -------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| 🔢 **Two Sum**              | Return indices of two numbers adding up to a target.       | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Twosum.java)        |
-| 0️⃣1️⃣2️⃣ **Sort 0, 1, 2**   | Dutch National Flag problem—sort an array of 0s, 1s, 2s.  | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Sort012.java)       |
-| 👥 **Majority Element**     | Find the element that appears more than ⌊n / 2⌋ times.    | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Majortyelement.java) |
+| 💡 Problem | 📘 Description | 💻 Code |
+|-----------|----------------|---------|
+| 1️⃣ Largest Element | Find the maximum in an array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Maxout.java) |
+| 2️⃣ Second Largest | Find second largest without sorting | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/SecondMaxout.java) |
+| 🔍 Check if Sorted | Check if array is ascending | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Sortedornot) |
+| 🧹 Remove Duplicates | Remove duplicates from sorted array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Remove.java) |
+| 🔁 Rotate by One | Left rotate by 1 position | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/RotateLeft.java) |
+| 0️⃣ Move All Zeros | Push `0`s to end, preserve order | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Move0.java) |
+| 🔎 Linear Search | Find target in array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Linear.java) |
+| ➕ Union of Arrays | Union without duplicates | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Union.java) |
+| ❓ Missing Element | Find missing number in range `1-N` | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Missing.java) |
+| 🔢 Max Consecutive 1s | Count max continuous `1`s | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/maxConsecBits.java) |
+| 🧩 Unique Element | Find the non-repeating element | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Uniquele.java) |
 
 ---
 
-## 🔧 **Prerequisites**
+## 🧠 Medium-Level Array Challenges
 
-Before you begin, make sure you have:
-
-- ☕ **Java 8+** installed
-- 🧰 **IDE** like IntelliJ / Eclipse / VS Code
-- 👶 **Basic knowledge** of programming concepts
+| ⚙️ Problem | 📘 Description | 💻 Code |
+|-----------|----------------|---------|
+| 🔢 Two Sum | Indices of two numbers summing to target | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Twosum.java) |
+| 0️⃣1️⃣2️⃣ Sort 0s, 1s, 2s | Dutch National Flag problem | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Sort012.java) |
+| 👥 Majority Element | Find element appearing > `n/2` times | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Majortyelement.java) |
+| 💰 Max Subarray Sum | Kadane’s Algorithm | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Maxsumarray.java) |
 
 ---
 
-## 🤝 **Contributing**
+## 🔧 Prerequisites
 
-We 💖 contributions! To contribute:
+Before getting started, ensure you have:
 
-1. **Fork** the repo  
+- ☕ **Java 8+** installed  
+- 💻 IDE like IntelliJ / Eclipse / VS Code  
+- 🧑‍💻 Basic understanding of programming
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions!
+
+### 🔀 Steps:
+1. **Fork** this repo  
 2. **Create a branch**: `git checkout -b feature/YourFeature`  
-3. **Commit** your changes: `git commit -m 'Add: YourFeature'`  
-4. **Push** to your fork: `git push origin feature/YourFeature`  
+3. **Commit**: `git commit -m "Add: YourFeature"`  
+4. **Push**: `git push origin feature/YourFeature`  
 5. **Open a Pull Request** 🚀
 
-**Contribution Guidelines**:
-- Follow a **consistent code style**  
-- **Comment** your logic clearly  
-- Keep explanations **beginner-friendly**  
+### 🧠 Guidelines:
+- Maintain clean, consistent code  
+- Add comments where logic is complex  
+- Keep it beginner-friendly
 
 ---
 
@@ -117,20 +95,20 @@ We 💖 contributions! To contribute:
 
 ---
 
-## 📄 **License**
+## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🌟 **Support the Project**
+## 🌟 Support the Project
 
-If you found this helpful:
+If this project helped you:
 
-- ⭐ **Star** the repo  
-- 🔄 **Share** it with peers  
-- 📬 **Stay tuned** for new updates!
+- ⭐ Star the repo  
+- 🔁 Share it with your peers  
+- 📬 Stay tuned for updates  
 
 ---
 
-**Happy Coding! 🚀 Keep Learning. Keep Building. 💡**
+**🚀 Happy Coding! Keep Learning. Keep Building. 💡**
