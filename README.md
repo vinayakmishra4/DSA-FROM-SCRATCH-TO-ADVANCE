@@ -52,14 +52,13 @@ Embark on a structured journey to master DSA—from fundamentals to advanced tec
 
 ---
 
-## 🧠 Medium-Level Array Challenges
-
-| ⚙️ Problem | 📘 Description | 💻 Code |
-|-----------|----------------|---------|
-| 🔢 Two Sum | Indices of two numbers summing to target | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Twosum.java) |
-| 0️⃣1️⃣2️⃣ Sort 0s, 1s, 2s | Dutch National Flag problem | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Sort012.java) |
-| 👥 Majority Element | Find element appearing > `n/2` times | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Majortyelement.java) |
-| 💰 Max Subarray Sum | Kadane’s Algorithm | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Maxsumarray.java) |
+| ⚙️ Problem                 | 📘 Description                                              | 💻 Code                                                                                                            |
+| -------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 🔢 Two Sum                 | Indices of two numbers summing to target                    | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Twosum.java)           |
+| 0️⃣1️⃣2️⃣ Sort 0s, 1s, 2s  | Dutch National Flag problem                                 | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Sort012.java)          |
+| 👥 Majority Element        | Find element appearing > `n/2` times                        | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Majortyelement.java)   |
+| 💰 Max Subarray Sum        | Kadane’s Algorithm                                          | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Maxsumarray.java)      |
+| 🖨️ Print Maximum Subarray | Print the subarray with maximum sum using Kadane’s approach | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Printmaxsubarray.java) |
 
 ---
 
