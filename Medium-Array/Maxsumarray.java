@@ -1,66 +1,56 @@
-
+import java.util.ArrayList;
 import java.util.Scanner;
 
-class Maxsumarray
-{
-    public static int maxSubarraySum(int[] arr)
-    {
-        // Brute froce 
-        //   int maxsum = Integer.MIN_VALUE;
-        //   for (int i = 0; i < arr.length; i++)
-        //   {
-        //     for(int j=0;j<arr.length;j++)
-        //     {
-        //         int sum=0;
-        //         for(int k=i;k<=j;k++)
-        //         {
-        //             sum+=arr[k];
-        //         }
-        //         maxsum=Math.max(sum,maxsum);
-        //     }
-        //   }
-        //   return maxsum;
-        // better approach
-        // int maxsum = Integer.MIN_VALUE;
-        // for (int i = 0; i < arr.length; i++)
-        // {
-        //   int sum=0;
-        //   for(int j=0;j<arr.length;j++)
-        //   {
-        //      sum=sum+arr[j];
-        //     maxsum=Math.max(sum,maxsum);
-        //   }
-        // }
-        // return maxsum;
-        // Optimal approach
-        long sum=0;
-        long maxsum=Long.MIN_VALUE;
-        for(int i=0;i<arr.length;i++)
-        {
-            sum+=arr[i];
-            if(sum>=maxsum)
-            {
-                maxsum=sum;
+public class Maxsumarray {
+
+    public static ArrayList<Integer> maxSubarraySum(int[] arr) {
+        int maxSum = arr[0];
+        int currentSum = arr[0];
+        int start = 0, end = 0, tempStart = 0;
+
+        for (int i = 1; i < arr.length; i++) {
+            if (currentSum < 0) {
+                currentSum = arr[i];
+                tempStart = i;
+            } else {
+                currentSum += arr[i];
             }
-            if(sum<0)
-            {
-                sum=0;
+
+            if (currentSum > maxSum) {
+                maxSum = currentSum;
+                start = tempStart;
+                end = i;
             }
         }
-        return (int)maxsum;
-    }
-    public static void main(String[] args)
-    {
-       Scanner sc=new Scanner(System.in);
-       System.out.println("Size of the array");
-       int n=sc.nextInt();
-       int[] arr=new int[n];
-       System.out.println("Enter the elements of the array");
-       for(int i=0;i<n;i++)
-       {
-        arr[i]=sc.nextInt();
-       }
-       System.out.println("Maximum sum of subarray is "+maxSubarraySum(arr));
+
+        // Build result subarray
+        ArrayList<Integer> result = new ArrayList<>();
+        for (int i = start; i <= end; i++) {
+            result.add(arr[i]);
+        }
+
+        return result;
     }
 
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Size of the array: ");
+        int n = sc.nextInt();
+        int[] arr = new int[n];
+
+        System.out.println("Enter the elements of the array:");
+        for (int i = 0; i < n; i++) {
+            arr[i] = sc.nextInt();
+        }
+
+        ArrayList<Integer> maxSubarray = maxSubarraySum(arr);
+        int maxSum = maxSubarray.stream().mapToInt(Integer::intValue).sum();
+
+        System.out.println("Maximum sum of subarray is: " + maxSum);
+        System.out.print("Subarray with maximum sum: ");
+        for (int num : maxSubarray) {
+            System.out.print(num + " ");
+        }
+    }
 }
