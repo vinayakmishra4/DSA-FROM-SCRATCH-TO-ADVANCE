@@ -1,14 +1,22 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-8%2B-red.svg" alt="Java Version">
-  <img src="https://img.shields.io/github/license/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE" alt="License: MIT">
-  <img src="https://img.shields.io/github/repo-size/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE" alt="Repo Size">
-</p>
+# 🚀 Master Data Structures & Algorithms in Java – Beginner to Advanced 🔥
 
-<h1 align="center">🚀 Master Data Structures & Algorithms in Java – Beginner to Advanced 🔥</h1>
+## 📝 Summary:
+Learn DSA the smart way – structured roadmap, crystal-clear Java code, intuitive visuals, and real-world problems!
 
-<p align="center"><em>🧠 Learn DSA the smart way – structured roadmap, crystal-clear Java code, intuitive visuals, and real-world problems!</em></p>
+## 📑 Table of Contents:
+| Section | Link |
+|--------|------|
+| Summary | [Go](#-summary) |
+| Modules | [Go](#-modules) |
+| Phase 1: Sorting Algorithms | [Go](#-phase-1-sorting-algorithms) |
+| Phase 2: Easy Array Challenges | [Go](#-phase-2-easy-array-challenges) |
+| Phase 3: Medium Array Challenges | [Go](#-phase-3-medium-array-challenges) |
+| Prerequisites | [Go](#-prerequisites) |
+| Contributing | [Go](#-contributing) |
+| License | [Go](#-license) |
+| Support | [Go](#-like-what-you-see-support-us) |
 
----
+## 🧩 Modules:
 
 ## 🧩 Modules:
 
