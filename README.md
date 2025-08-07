@@ -10,60 +10,47 @@
 
 ---
 
-## 🗺️ Explore the Journey: What's Inside?
+## 🧩 Modules:
 
-Embark on a structured journey to master DSA—from fundamentals to advanced techniques—all implemented in Java. 🌱
+### 📘 Phase 1: Sorting Algorithms
+Master core sorting techniques with visual explanations and Java implementations.
 
----
+| Algorithm       | Explanation | Code | Time Complexity |
+|----------------|-------------|------|-----------------|
+| Bubble Sort     | [Read](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Bubble_Sort.md) | [Java](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Bubble_Sort.java) | Best: O(n), Worst: O(n²) |
+| Insertion Sort  | [Read](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Insertion_Sort.md) | [Java](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Insertion_Sort.java) | Best: O(n), Worst: O(n²) |
+| Selection Sort  | [Read](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Selection_Sort.md) | [Java](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Selection.java) | All: O(n²) |
+| Quick Sort      | [Read](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Quick_Sort.md) | [Java](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Quick_Sort.java) | Avg: O(n log n), Worst: O(n²) |
+| Merge Sort      | [Read](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Merge_sort.md) | [Java](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Merge_sort.java) | All: O(n log n) |
 
-## 🧭 Step-by-Step Learning Roadmap
+### 🧩 Phase 2: Easy Array Challenges
+Strengthen your array fundamentals with classic problems.
 
-### 📊 Phase 1: Sorting Algorithms Demystified
+| Problem | Description | Code |
+|--------|-------------|------|
+| Largest Element | Find max in array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Maxout.java) |
+| Second Largest | Without sorting | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/SecondMaxout.java) |
+| Check if Sorted | Ascending check | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Sortedornot) |
+| Remove Duplicates | From sorted array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Remove.java) |
+| Rotate by One | Left rotation | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/RotateLeft.java) |
+| Move All Zeros | Push 0s to end | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Move0.java) |
+| Linear Search | Find element | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Linear.java) |
+| Union of Arrays | Merge without duplicates | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Union.java) |
+| Missing Element | In range 1-N | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Missing.java) |
+| Max Consecutive 1s | Longest sequence | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/maxConsecBits.java) |
+| Unique Element | Non-repeating | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Uniquele.java) |
 
-> Grasp core sorting techniques with visual explanations and intuitive Java code.
+### 🧠 Phase 3: Medium Array Challenges
+Solve deeper problems using optimized algorithms.
 
-| ⚙️ Algorithm       | 📘 Explanation | 💻 Code | ⏱ Time Complexity |
-|-------------------|----------------|---------|--------------------|
-| 🫧 **Bubble Sort** | [Read](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Bubble_Sort.md) | [Java](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Bubble_Sort.java) | Best: `O(n)`<br>Avg/Worst: `O(n²)` |
-| ✍️ **Insertion Sort** | [Read](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Insertion_Sort.md) | [Java](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Insertion_Sort.java) | Best: `O(n)`<br>Avg/Worst: `O(n²)` |
-| 🔎 **Selection Sort** | [Read](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Selection_Sort.md) | [Java](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Selection.java) | All: `O(n²)` |
-| ⚡ **Quick Sort** | [Read](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Quick_Sort.md) | [Java](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Quick_Sort.java) | Best/Avg: `O(n log n)`<br>Worst: `O(n²)` |
-| 🧩 **Merge Sort** | [Read](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Merge_sort.md) | [Java](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Merge_sort.java) | All: `O(n log n)` |
-
----
-
-## 🧩 Easy Array Challenges to Build Strong Foundations
-
-> Strengthen your basics with beginner-friendly array challenges.
-
-| 💡 Problem | 📘 Description | 💻 Code |
-|-----------|----------------|---------|
-| 1️⃣ Largest Element | Find the maximum in an array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Maxout.java) |
-| 2️⃣ Second Largest | Find second largest without sorting | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/SecondMaxout.java) |
-| 🔍 Check if Sorted | Check if array is ascending | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Sortedornot) |
-| 🧹 Remove Duplicates | Remove duplicates from sorted array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Remove.java) |
-| 🔁 Rotate by One | Left rotate by 1 position | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/RotateLeft.java) |
-| 0️⃣ Move All Zeros | Push `0`s to end, preserve order | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Move0.java) |
-| 🔎 Linear Search | Find target in array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Linear.java) |
-| ➕ Union of Arrays | Union without duplicates | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Union.java) |
-| ❓ Missing Element | Find missing number in range `1-N` | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Missing.java) |
-| 🔢 Max Consecutive 1s | Count max continuous `1`s | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/maxConsecBits.java) |
-| 🧩 Unique Element | Find the non-repeating element | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Uniquele.java) |
-
----
-
-## 🧠 Medium Array Challenges to Deepen Understanding
-
-> Tackle more complex problems with optimized solutions and Java implementations.
-
-| ⚙️ Problem                 | 📘 Description                                              | 💻 Code                                                                                                            |
-| -------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| 🔢 Two Sum                 | Indices of two numbers summing to target                    | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Twosum.java)           |
-| 0️⃣1️⃣2️⃣ Sort 0s, 1s, 2s  | Dutch National Flag problem                                 | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Sort012.java)          |
-| 👥 Majority Element        | Find element appearing > `n/2` times                        | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Majortyelement.java)   |
-| 💰 Max Subarray Sum        | Kadane’s Algorithm                                          | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Maxsumarray.java)      |
-| 🖨️ Print Maximum Subarray | Print the subarray with maximum sum using Kadane’s approach | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Printmaxsubarray.java) |
-| 📈 Stock Buy and Sell      | Determine the best time to buy and sell stocks to maximize profit. Includes edge cases and greedy logic. | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/StockandBuy.java) |
+| Problem | Description | Code |
+|--------|-------------|------|
+| Two Sum | Indices summing to target | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Twosum.java) |
+| Sort 0s, 1s, 2s | Dutch National Flag | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Sort012.java) |
+| Majority Element | Appears > n/2 times | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Majortyelement.java) |
+| Max Subarray Sum | Kadane’s Algorithm | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Maxsumarray.java) |
+| Print Maximum Subarray | With values | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Printmaxsubarray.java) |
+| Stock Buy and Sell | Maximize profit | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/StockandBuy.java) |
 
 ---
 
