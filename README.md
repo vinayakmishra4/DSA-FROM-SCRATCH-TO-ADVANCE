@@ -52,6 +52,10 @@ Embark on a structured journey to master DSA—from fundamentals to advanced tec
 
 ---
 
+## 🧠 Medium Array Challenges to Deepen Understanding
+
+> Tackle more complex problems with optimized solutions and Java implementations.
+
 | ⚙️ Problem                 | 📘 Description                                              | 💻 Code                                                                                                            |
 | -------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | 🔢 Two Sum                 | Indices of two numbers summing to target                    | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Twosum.java)           |
@@ -59,7 +63,7 @@ Embark on a structured journey to master DSA—from fundamentals to advanced tec
 | 👥 Majority Element        | Find element appearing > `n/2` times                        | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Majortyelement.java)   |
 | 💰 Max Subarray Sum        | Kadane’s Algorithm                                          | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Maxsumarray.java)      |
 | 🖨️ Print Maximum Subarray | Print the subarray with maximum sum using Kadane’s approach | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Printmaxsubarray.java) |
-| 📈 Stock Buy and Sell | Determine the best time to buy and sell stocks to maximize profit. Includes edge cases and greedy logic. | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/StockandBuy.java) |
+| 📈 Stock Buy and Sell      | Determine the best time to buy and sell stocks to maximize profit. Includes edge cases and greedy logic. | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/StockandBuy.java) |
 
 ---
 
