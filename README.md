@@ -17,9 +17,6 @@ Learn DSA the smart way – structured roadmap, crystal-clear Java code, intuiti
 | Support | [Go](#-like-what-you-see-support-us) |
 
 ## 🧩 Modules:
-
-## 🧩 Modules:
-
 ### 📘 Phase 1: Sorting Algorithms
 Master core sorting techniques with visual explanations and Java implementations.
 
