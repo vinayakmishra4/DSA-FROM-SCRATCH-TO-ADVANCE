@@ -4,19 +4,19 @@
   <img src="https://img.shields.io/github/repo-size/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE" alt="Repo Size">
 </p>
 
-<h1 align="center">🔥 Master Java DSA: From Scratch to Advanced 🚀</h1>
+<h1 align="center">🚀 Master Data Structures & Algorithms in Java – Beginner to Advanced 🔥</h1>
 
-<p align="center"><em>🧠 Ace Data Structures and Algorithms with structured lessons, clean Java code, and visual clarity!</em></p>
+<p align="center"><em>🧠 Learn DSA the smart way – structured roadmap, crystal-clear Java code, intuitive visuals, and real-world problems!</em></p>
 
 ---
 
-## 🗺️ What’s Inside?
+## 🗺️ Explore the Journey: What's Inside?
 
 Embark on a structured journey to master DSA—from fundamentals to advanced techniques—all implemented in Java. 🌱
 
 ---
 
-## 🧭 Learning Roadmap
+## 🧭 Step-by-Step Learning Roadmap
 
 ### 📊 Phase 1: Sorting Algorithms Demystified
 
@@ -32,7 +32,7 @@ Embark on a structured journey to master DSA—from fundamentals to advanced tec
 
 ---
 
-## 🧩 Easy Array Problems
+## 🧩 Easy Array Challenges to Build Strong Foundations
 
 > Strengthen your basics with beginner-friendly array challenges.
 
@@ -59,6 +59,7 @@ Embark on a structured journey to master DSA—from fundamentals to advanced tec
 | 👥 Majority Element        | Find element appearing > `n/2` times                        | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Majortyelement.java)   |
 | 💰 Max Subarray Sum        | Kadane’s Algorithm                                          | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Maxsumarray.java)      |
 | 🖨️ Print Maximum Subarray | Print the subarray with maximum sum using Kadane’s approach | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Printmaxsubarray.java) |
+| 📈 Stock Buy and Sell | Determine the best time to buy and sell stocks to maximize profit. Includes edge cases and greedy logic. | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/StockandBuy.java) |
 
 ---
 
@@ -100,7 +101,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🌟 Support the Project
+## 🌟 Like What You See? Support Us!
 
 If this project helped you:
 
