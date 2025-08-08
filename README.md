@@ -58,6 +58,7 @@ Tackle mid-level challenges using optimized logic and patterns that interviewers
 | Print Maximum Subarray | With values | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Printmaxsubarray.java) |
 | Stock Buy and Sell | Maximize profit | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/StockandBuy.java) |
 | Rearrange Array | Rearrange elements in alternate positive and negative order | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/RearrangeArray.java) |
+| Next Permutation | Rearrange numbers into lexicographically next greater permutation | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/nextpermutation.java) |
 
 ---
 
