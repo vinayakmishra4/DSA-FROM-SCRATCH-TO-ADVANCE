@@ -21,7 +21,7 @@ class LeaderArray
         {
             // If the current element is greater than the maximum element found so far,
             // then it is also a leader
-            if(arr[i] > max)
+            if(arr[i] >= max)
             {
                 list.add(arr[i]); // Add leader to the list
                 max = arr[i];     // Update max to the current element
