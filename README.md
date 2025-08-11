@@ -60,6 +60,8 @@ Tackle mid-level challenges using optimized logic and patterns that interviewers
 | Rearrange Array | Rearrange elements in alternate positive and negative order | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/RearrangeArray.java) |
 | Next Permutation | Rearrange numbers into lexicographically next greater permutation | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/nextpermutation.java) |
 | Largest Elements (Leaders) | Find all leaders in the array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/LeaderArray.java) |
+| Longest Increasing Subsequence | Find the length of the longest strictly increasing subsequence in an array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/LongestSubsequnence.java) |
+
 
 ---
 
