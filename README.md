@@ -48,20 +48,21 @@ Build strong array fundamentals with classic yet powerful challenges that sharpe
 
 ### 🧠 Phase 3: Medium Array Challenges
 Tackle mid-level challenges using optimized logic and patterns that interviewers love.
+Here’s the updated table with the new problem added:
 
-| Problem | Description | Code |
-|--------|-------------|------|
-| Two Sum | Indices summing to target | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Twosum.java) |
-| Sort 0s, 1s, 2s | Dutch National Flag | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Sort012.java) |
-| Majority Element | Appears > n/2 times | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Majortyelement.java) |
-| Max Subarray Sum | Kadane’s Algorithm | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Maxsumarray.java) |
-| Print Maximum Subarray | With values | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Printmaxsubarray.java) |
-| Stock Buy and Sell | Maximize profit | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/StockandBuy.java) |
-| Rearrange Array | Rearrange elements in alternate positive and negative order | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/RearrangeArray.java) |
-| Next Permutation | Rearrange numbers into lexicographically next greater permutation | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/nextpermutation.java) |
-| Largest Elements (Leaders) | Find all leaders in the array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/LeaderArray.java) |
+| Problem                        | Description                                                                | Code                                                                                                                  |
+| ------------------------------ | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Two Sum                        | Indices summing to target                                                  | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Twosum.java)              |
+| Sort 0s, 1s, 2s                | Dutch National Flag                                                        | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Sort012.java)             |
+| Majority Element               | Appears > n/2 times                                                        | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Majortyelement.java)      |
+| Max Subarray Sum               | Kadane’s Algorithm                                                         | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Maxsumarray.java)         |
+| Print Maximum Subarray         | With values                                                                | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Printmaxsubarray.java)    |
+| Stock Buy and Sell             | Maximize profit                                                            | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/StockandBuy.java)         |
+| Rearrange Array                | Rearrange elements in alternate positive and negative order                | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/RearrangeArray.java)      |
+| Next Permutation               | Rearrange numbers into lexicographically next greater permutation          | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/nextpermutation.java)     |
+| Largest Elements (Leaders)     | Find all leaders in the array                                              | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/LeaderArray.java)         |
 | Longest Increasing Subsequence | Find the length of the longest strictly increasing subsequence in an array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/LongestSubsequnence.java) |
-
+| **Set Matrix Zero**            | Set entire row and column to zero if an element is zero                    | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/SetMatrixZero.java)       |
 
 ---
 
