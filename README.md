@@ -44,7 +44,9 @@ Build strong array fundamentals with classic yet powerful challenges that sharpe
 | Union of Arrays | Merge without duplicates | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Union.java) |
 | Missing Element | In range 1-N | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Missing.java) |
 | Max Consecutive 1s | Longest sequence | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/maxConsecBits.java) |
-| Unique Element | Non-repeating | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Uniquele.java) |
+| Unique Element | Non-repeating | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Uniquele.java)
+| Rotate Matrix by 90° | Rotate 2D array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Rotateby90.java) |
+
 
 ### 🧠 Phase 3: Medium Array Challenges
 Tackle mid-level challenges using optimized logic and patterns that interviewers love.
