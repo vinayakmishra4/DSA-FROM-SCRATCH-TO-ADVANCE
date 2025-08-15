@@ -68,7 +68,14 @@ Here’s the updated table with the new problem added:
 | Matrix in Spiral Form           | Traverse the matrix in a spiral order                                     | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Sprialform.java)          |
 | **Count Subarrays**            | Count subarrays with a given XOR value                                     | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/CountSubarray.java)       |
 
----
+
+### 🧩 Phase 4: Hard Array Challenges
+Push your problem-solving to the next level with a challenging and classic array puzzle.
+
+| Problem        | Description                          | Code |
+|----------------|--------------------------------------|------|
+| Pascal Triangle | Generate Pascal's Triangle up to N levels | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/tree/main/Hard-Array) |
+
 
 ## 🔧 Prerequisites
 
