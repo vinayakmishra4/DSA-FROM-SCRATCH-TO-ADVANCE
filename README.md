@@ -75,6 +75,7 @@ Push your problem-solving to the next level with a challenging and classic array
 | Problem        | Description                          | Code |
 |----------------|--------------------------------------|------|
 | Pascal Triangle | Generate Pascal's Triangle up to N levels | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/tree/main/Hard-Array) |
+| Majority Element (n/3) | Find all elements appearing more than ⌊ n/3 ⌋ times | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Hard-Array/Majortyelement2.java) |
 
 
 ## 🔧 Prerequisites
