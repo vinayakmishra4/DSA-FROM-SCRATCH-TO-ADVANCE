@@ -1,6 +1,9 @@
+import java.util.Scanner;
+
 public class  Majortyelement2
 {
-    public static int majorityElement(int[] nums) {
+    public static int majorityElement(int[] nums)
+    {
         int count = 0, candidate = -1;
 
         for (int num : nums) {
@@ -32,14 +35,18 @@ public class  Majortyelement2
         int[] arr = new int[n];
         
         System.out.println("Enter the elements of the array:");
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) 
+        {
             arr[i] = sc.nextInt();
         }
         
         int result = majorityElement(arr);
-        if (result == -1) {
+        if (result == -1)
+        {
             System.out.println("No Majority Element");
-        } else {
+        }
+        else
+        {
             System.out.println("Majority Element is " + result);
         }
     }

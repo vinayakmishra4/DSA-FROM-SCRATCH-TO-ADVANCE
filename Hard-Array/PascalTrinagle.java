@@ -2,7 +2,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-class PascalTriangle
+class PascalTrinagle
 {
     public static ArrayList<Integer> nthRowOfPascalTriangle(int n)
     {
