@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class  Majortyelement2
+public class  Majortyelement3
 {
     public static int majorityElement(int[] nums)
     {
