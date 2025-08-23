@@ -78,7 +78,7 @@ Push your problem-solving to the next level with a challenging and classic array
 | Majority Element (n/3) | Find all elements appearing more than ⌊ n/3 ⌋ times | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Hard-Array/Majortyelement2.java) |
 | 3Sum Problem       | Find all unique triplets with sum = 0               | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Hard-Array/Sum3.java)            |
 | 4Sum Problem            | Find all unique quadruplets with sum = target   | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Hard-Array/Sum4.java)            |
-
+| Length of Largest Subarray with 0 Sum | Find the length of the largest subarray having sum = 0 | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Hard-Array/Largestsum0.java) |
 
 ## 🔧 Prerequisites
 
