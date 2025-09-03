@@ -69,8 +69,6 @@ Here’s the updated table with the new problem added:
 | **Count Subarrays**            | Count subarrays with a given XOR value                                     | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/CountSubarray.java)       |
 
 
-Got it! Here's your updated **Phase 4: Hard Array Challenges** with the two additional problems added:
-
 ---
 
 ### 🧩 Phase 4: Hard Array Challenges
@@ -87,6 +85,7 @@ Push your problem-solving to the next level with a challenging and classic array
 | Count Subarrays with XOR K                  | Count number of subarrays with given XOR K                              | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Hard-Array/Subarraywithxor.java) |
 | Merge Overlapping Subintervals              | Merge all overlapping intervals into merged intervals                   | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Hard-Array/Overlapping.java)     |
 | Merge two sorted arrays without extra space | Merge two sorted arrays into one sorted array without using extra space | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Hard-Array/Mergearray.java)      |
+| Missing and Related in Array              | Find missing and repeated number in array                             | [Code](http://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Hard-Array/MissingandRepated.java) |
 
 ---
 
