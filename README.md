@@ -11,6 +11,7 @@ Unlock the secrets of coding interviews with a structured DSA journey – featur
 | Phase 1: Sorting Algorithms | [Go](#-phase-1-sorting-algorithms) |
 | Phase 2: Easy Array Challenges | [Go](#-phase-2-easy-array-challenges) |
 | Phase 3: Medium Array Challenges | [Go](#-phase-3-medium-array-challenges) |
+| Phase 4: Hard Array Challenges | [Go](#-phase-4-hard-array-challenges) |
 | Prerequisites | [Go](#-prerequisites) |
 | Contributing | [Go](#-contributing) |
 | License | [Go](#-license) |
@@ -99,3 +100,20 @@ Before getting started, ensure you have:
 - ☕ **Java 8 or above** – your brewing engine for coding  
 - 💻 Any Java-friendly IDE – IntelliJ, Eclipse, or VS Code  
 - 🧠 A dash of programming basics – logic, loops, and love for learning
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+- Fork the repo  
+- Create a new branch  
+- Commit changes  
+- Submit a Pull Request 🚀
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 💖 Support
+
+If you find this project helpful, please ⭐ the repo and share it with others!  
+Your support motivates me to keep adding more DSA problems and solutions.
