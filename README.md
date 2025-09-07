@@ -88,6 +88,7 @@ Push your problem-solving to the next level with a challenging and classic array
 | Missing and Related in Array              | Find missing and repeated number in array                             | [Code](http://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Hard-Array/MissingandRepated.java) |
 | Count Inversions                          | Count inversions in an array using modified merge sort                   | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Hard-Array/CountInversion.java) |
 | Reverse Pairs                             | Count reverse pairs in an array                                          | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Hard-Array/Reversepair.java)     |
+| Maximum Product Subarray                  | Find the maximum product of a subarray in an array                       | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Hard-Array/Maxproduct.java)     |
 
 ---
 
