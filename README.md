@@ -86,6 +86,7 @@ Push your problem-solving to the next level with a challenging and classic array
 | Merge Overlapping Subintervals              | Merge all overlapping intervals into merged intervals                   | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Hard-Array/Overlapping.java)     |
 | Merge two sorted arrays without extra space | Merge two sorted arrays into one sorted array without using extra space | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Hard-Array/Mergearray.java)      |
 | Missing and Related in Array              | Find missing and repeated number in array                             | [Code](http://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Hard-Array/MissingandRepated.java) |
+| Count Inversions                          | Count inversions in an array using modified merge sort                   | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Hard-Array/CountInversion.java) |
 
 ---
 
