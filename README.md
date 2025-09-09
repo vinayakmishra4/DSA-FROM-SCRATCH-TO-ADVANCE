@@ -9,6 +9,7 @@ Unlock the secrets of coding interviews with a structured DSA journey – featur
 | Summary | [Go](#-summary) |
 | Modules | [Go](#-modules) |
 | Phase 1: Sorting Algorithms | [Go](#-phase-1-sorting-algorithms) |
+| Binary Search | [Go](#-binary-search) |
 | Phase 2: Easy Array Challenges | [Go](#-phase-2-easy-array-challenges) |
 | Phase 3: Medium Array Challenges | [Go](#-phase-3-medium-array-challenges) |
 | Phase 4: Hard Array Challenges | [Go](#-phase-4-hard-array-challenges) |
@@ -29,6 +30,13 @@ Grasp essential sorting techniques through animations, breakdowns, and concise J
 | Selection Sort  | [Read](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Selection_Sort.md) | [Java](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Selection.java) | All: O(n²) |
 | Quick Sort      | [Read](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Quick_Sort.md) | [Java](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Quick_Sort.java) | Avg: O(n log n), Worst: O(n²) |
 | Merge Sort      | [Read](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Merge_sort.md) | [Java](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Merge_sort.java) | All: O(n log n) |
+
+### 🔍 Binary Search
+Master the art of searching efficiently with Binary Search – a must-know technique for coding interviews.
+
+| Topic         | Notes | Code |
+|---------------|-------|------|
+| Binary Search | [Read](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach/BinarySreach.md) | [Java](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach/Sreach.java) |
 
 ### 🧩 Phase 2: Easy Array Challenges
 Build strong array fundamentals with classic yet powerful challenges that sharpen your problem-solving skills.
