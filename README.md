@@ -108,6 +108,7 @@ Master binary search beyond basics — from rotated arrays to optimization probl
 | Problem                   | Description                             | Code                                                                                           |
 |---------------------------|-----------------------------------------|------------------------------------------------------------------------------------------------|
 | Implement Lower Bound     | Find the first index where element ≥ x  | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/tree/main/Binary-Sreach-1D) |
+| Implement Upper Bound     | Find the first index where element > x  | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/UpperBound.java) |
 
 
 ## 🔧 Prerequisites
