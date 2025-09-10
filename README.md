@@ -101,6 +101,15 @@ Push your problem-solving to the next level with a challenging and classic array
 
 ---
 
+### 🧠 Phase 5: Binary Search on 1-D Arrays
+
+Master binary search beyond basics — from rotated arrays to optimization problems like Aggressive Cows, using logarithmic logic for efficient solutions.
+
+| Problem                   | Description                             | Code                                                                                           |
+|---------------------------|-----------------------------------------|------------------------------------------------------------------------------------------------|
+| Implement Lower Bound     | Find the first index where element ≥ x  | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/tree/main/Binary-Sreach-1D) |
+
+
 ## 🔧 Prerequisites
 
 Before getting started, ensure you have:
