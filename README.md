@@ -110,6 +110,7 @@ Master binary search beyond basics — from rotated arrays to optimization probl
 | Implement Lower Bound     | Find the first index where element ≥ x  | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/tree/main/Binary-Sreach-1D) |
 | Implement Upper Bound     | Find the first index where element > x  | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/UpperBound.java) |
 | Search Insert Position   | Find the index to insert element in sorted array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Sreachpostion.java) |
+| Floor and Ceil Value      | Find the floor and ceil of a given number in sorted array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/FloorCiel.java) |
 
 
 ## 🔧 Prerequisites
