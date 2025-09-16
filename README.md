@@ -119,16 +119,17 @@ Push your problem-solving to the next level with a challenging and classic array
 
 Master binary search beyond basics — from rotated arrays to optimization problems like Aggressive Cows, using logarithmic logic for efficient solutions.
 
-| Problem                   | Description                             | Code                                                                                           |
-|---------------------------|-----------------------------------------|------------------------------------------------------------------------------------------------|
-| ⭐ Implement Lower Bound     | Find the first index where element ≥ x  | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/tree/main/Binary-Sreach-1D) |
-| ⭐ Implement Upper Bound     | Find the first index where element > x  | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/UpperBound.java) |
-| ⭐ Search Insert Position   | Find the index to insert element in sorted array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Sreachpostion.java) |
-| ⭐ Floor and Ceil Value      | Find the floor and ceil of a given number in sorted array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/FloorCiel.java) |
-| ⭐ First and Last Occurrence | Find the first and last position of an element in sorted array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/FristandLast.java) |
-| ⭐ Number of Occurrence     | Count how many times an element appears in a sorted array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/NumberofOccurence.java) |
+| ⭐ Problem                   | Description                                                                                                  | Code                                                                                                                    |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| ⭐ Number of Occurrence      | Count how many times a given element appears in a sorted array                                               | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/NumberofOccurence.java) |
+| ⭐ First and Last Occurrence | Find the first and last indices where a given element appears in a sorted array                              | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/FristandLast.java)      |
+| ⭐ Floor and Ceil Value      | Find the floor (largest element ≤ x) and ceil (smallest element ≥ x) values for a target x in a sorted array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/FloorCiel.java)         |
+| ⭐ Search Insert Position    | Find the position to insert a target element in a sorted array so that array remains sorted                  | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Sreachpostion.java)     |
+| ⭐ Implement Upper Bound     | Find the first index where the element is **strictly greater than** a given value x                          | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/UpperBound.java)        |
+| ⭐ Implement Lower Bound     | Find the first index where the element is **greater than or equal to** a given value x                       | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/tree/main/Binary-Sreach-1D)                        |
+| 🔍 Search in sorted array   | Find the index of a target element in a sorted array (returns -1 if not found)                               | [Code](http://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Sreach1.java)            |
 
-
+---
 ## 🔧 Prerequisites
 
 Before getting started, ensure you have:
