@@ -132,6 +132,7 @@ Master binary search beyond basics — from rotated arrays to optimization probl
 | 🌀 Minimum in Rotated Array  | Find the minimum element in a rotated sorted array                                                           | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/RotatedArrayMinFinder.java) |
 | 🔄 Find Rotation Count       | Find out how many times a sorted array has been rotated                                                      | [Code](http://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/ArrayRotation.java)          |
 | 🔎 Search Single Element     | Find the single non-duplicate element in a sorted array where every other element appears twice              | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Single.java)                |
+| ⛰️ Find Peak Element        | Find a peak element in the array using binary search (element greater than neighbors)                       | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Peak.java)               |
 
 ---
 
