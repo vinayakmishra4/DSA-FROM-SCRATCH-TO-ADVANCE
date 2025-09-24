@@ -115,7 +115,7 @@ Push your problem-solving to the next level with a challenging and classic array
 
 ---
 
-### 🧠 Phase 5: Binary Search on 1-D Arrays
+## 🧠 Phase 5: Binary Search on 1-D Arrays
 
 Master binary search beyond basics — from rotated arrays to optimization problems like Aggressive Cows, using logarithmic logic for efficient solutions.
 
@@ -132,10 +132,11 @@ Master binary search beyond basics — from rotated arrays to optimization probl
 | 🌀 Minimum in Rotated Array  | Find the minimum element in a rotated sorted array                                                           | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/RotatedArrayMinFinder.java) |
 | 🔄 Find Rotation Count       | Find out how many times a sorted array has been rotated                                                      | [Code](http://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/ArrayRotation.java)          |
 | 🔎 Search Single Element     | Find the single non-duplicate element in a sorted array where every other element appears twice              | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Single.java)                |
-| ⛰️ Find Peak Element        | Find a peak element in the array using binary search (element greater than neighbors)                       | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Peak.java)               |
-| 🧮 Square Root of a Number  | Find the integer square root of a given number using binary search                                            | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Squarert.java) |
+| ⛰️ Find Peak Element         | Find a peak element in the array using binary search (element greater than neighbors)                        | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Peak.java)                  |
+| 🧮 Square Root of a Number   | Find the integer square root of a given number using binary search                                           | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Squarert.java)              |
+| 🧮 Nth Root of a Number      | Find the Nth root of a number using binary search (precision-based floating-point binary search)             | [Code](http://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Nsqaure.java)                |
+| 🍌 Koko Eating Bananas       | Find the minimum eating speed to finish all bananas within a given time using binary search                  | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/KokoEatingBananas.java)     |
 
----
 
 ## 🔧 Prerequisites
 
