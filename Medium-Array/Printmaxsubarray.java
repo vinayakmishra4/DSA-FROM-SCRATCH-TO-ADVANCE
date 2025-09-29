@@ -3,20 +3,17 @@ import java.util.Scanner;
 
 public class Printmaxsubarray 
 {
-    public static int[] maxSubarraySum(int[] arr) 
+    public static int[] maxSubarraySum(int[] arr)
     {
-        long sum = 0;
-        long maxsum = Long.MIN_VALUE;
-
-        // Track the indices of the max subarray
+        int sum = 0;
+        int maxsum = Integer.MIN_VALUE;
         int start = 0;
         int tempStart = 0;
         int end = 0;
-
+        
         for (int i = 0; i < arr.length; i++)
         {
             sum += arr[i];
-
             if (sum > maxsum) 
             {
                 maxsum = sum;
@@ -31,9 +28,15 @@ public class Printmaxsubarray
             }
         }
 
-        // Print the maximum subarray
-        return arr;
+        // Extract the maximum subarray
+        int[] maxSubarray = new int[end - start + 1];
+        for (int i = start; i <= end; i++)
+        {
+            maxSubarray[i - start] = arr[i];
+        }
+        return maxSubarray;
     }
+
     public static void main(String[] args)
     {
        Scanner sc=new Scanner(System.in);
