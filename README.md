@@ -137,9 +137,11 @@ Master binary search beyond basics — from rotated arrays to optimization probl
 | 🧮 Nth Root of a Number            | Find the Nth root of a number using binary search (precision-based floating-point binary search)             | [Code](http://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Nsqaure.java)                |
 | 🍌 Koko Eating Bananas             | Find the minimum eating speed to finish all bananas within a given time using binary search                  | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/KokoEatingBananas.java)     |
 | 🌸 Minimum Days to Make M Bouquets | Find minimum days required to make M bouquets given bloom days of flowers (binary search on answer space)    | [Code](http://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Mbouquets.java)              |
-| 🔢 Find the Smallest Divisor      | Find the smallest divisor such that the sum of divisions is less than or equal to a threshold (binary search on answer space) | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Smalldivsor.java) |
+| 🔢 Find the Smallest Divisor       | Find the smallest divisor such that the sum of divisions is ≤ a threshold (binary search on answer space)    | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Smalldivsor.java)           |
+| ❓ Find the Kth Missing Number      | Find the Kth missing positive number from a sorted array of positive integers                                | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/MissingK.java)              |
 
 ---
+
 
 ## 🔧 Prerequisites
 
