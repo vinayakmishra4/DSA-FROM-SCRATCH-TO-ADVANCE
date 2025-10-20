@@ -139,6 +139,7 @@ Master binary search beyond basics — from rotated arrays to optimization probl
 | 🌸 Minimum Days to Make M Bouquets | Find minimum days required to make M bouquets given bloom days of flowers (binary search on answer space)    | [Code](http://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Mbouquets.java)              |
 | 🔢 Find the Smallest Divisor      | Find the smallest divisor such that the sum of divisions is less than or equal to a threshold (binary search on answer space) | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Smalldivsor.java) |
 | 🚢 Capacity to Ship Packages Within D Days | Find the least weight capacity of a ship that can deliver all packages within D days (binary search on answer space) | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Shippment.java) |
+| 🐄 Aggressive Cows               | Place cows in stalls such that the minimum distance between any two cows is maximized (binary search on answer space) | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Aggresivecows.java) |
 
 ---
 
