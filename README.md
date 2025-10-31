@@ -91,7 +91,6 @@ Here’s the updated table with the new problem added:
 | ⭐ Matrix in Spiral Form           | Traverse the matrix in a spiral order                                     | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Sprialform.java)          |
 | ⭐ **Count Subarrays**            | Count subarrays with a given XOR value                                     | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/CountSubarray.java)       |
 
-
 ---
 
 ## 🧠 Phase 5: Binary Search on 1-D Arrays
@@ -121,6 +120,7 @@ Master binary search beyond basics — from rotated arrays to optimization probl
 | 🐄 Aggressive Cows                         | Place cows in stalls such that the minimum distance between any two cows is maximized (binary search on answer space) | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Aggresivecows.java)         |
 | 📚 Book Allocation Problem                 | Allocate books to minimize the maximum number of pages assigned (binary search on answer space)                       | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/bookallocation.java)        |
 | ✂️ Split Array Largest Sum                 | Split an array into k subarrays such that the largest sum among them is minimized (binary search on answer space)     | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/SplitArray.java)            |
+| 🎨 Painter Allocation Problem              | Allocate painters to paint boards such that the time to paint all boards is minimized (binary search on answer space) | [Code](http://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Paniterallocation.java)      |
 
 ---
 
