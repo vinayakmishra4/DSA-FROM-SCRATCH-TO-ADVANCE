@@ -121,6 +121,7 @@ Master binary search beyond basics — from rotated arrays to optimization probl
 | 📚 Book Allocation Problem                 | Allocate books to minimize the maximum number of pages assigned (binary search on answer space)                       | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/bookallocation.java)        |
 | ✂️ Split Array Largest Sum                 | Split an array into k subarrays such that the largest sum among them is minimized (binary search on answer space)     | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/SplitArray.java)            |
 | 🎨 Painter Allocation Problem              | Allocate painters to paint boards such that the time to paint all boards is minimized (binary search on answer space) | [Code](http://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Paniterallocation.java)      |
+| ⛽ Gas Station                          | Determine the starting gas station index from which you can complete a circular route given gas and cost arrays | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/GasStation.java) |
 
 ---
 
