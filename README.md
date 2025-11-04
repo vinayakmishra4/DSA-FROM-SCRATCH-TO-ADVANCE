@@ -123,6 +123,7 @@ Master binary search beyond basics — from rotated arrays to optimization probl
 | 🎨 Painter Allocation Problem              | Allocate painters to paint boards such that the time to paint all boards is minimized (binary search on answer space) | [Code](http://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Paniterallocation.java)      |
 | ⛽ Gas Station                              | Determine the starting gas station index from which you can complete a circular route given gas and cost arrays       | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/GasStation.java)            |
 | ⚖️ Median of Two Sorted Arrays             | Find the median of two sorted arrays using binary search (O(log (min(n, m))) approach)                                | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Medainarray.java)           |
+| 🔢 Kth Element in Two Sorted Arrays        | Find the Kth smallest element in the union of two sorted arrays using binary search                                   | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Kthelement.java)          |
 
 ---
 ## 🔧 Prerequisites
