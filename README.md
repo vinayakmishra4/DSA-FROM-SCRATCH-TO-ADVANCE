@@ -126,6 +126,15 @@ Master binary search beyond basics — from rotated arrays to optimization probl
 | 🔢 Kth Element in Two Sorted Arrays        | Find the Kth smallest element in the union of two sorted arrays using binary search                                   | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Kthelement.java)          |
 
 ---
+
+## 🧠 Phase 6: Binary Search in 2-D Arrays
+
+Master binary search in two-dimensional matrices — explore efficient searching, counting, and optimization problems.
+
+| ⭐ Problem | Description | Code |
+|------------|--------------|------|
+| ⭐ Find the Row with Maximum 1s | Identify the row containing the maximum number of 1s in a sorted binary matrix | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Rowwith1s.java) |
+
 ## 🔧 Prerequisites
 
 Before getting started, ensure you have:
