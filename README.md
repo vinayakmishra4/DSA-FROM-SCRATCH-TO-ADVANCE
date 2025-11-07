@@ -133,7 +133,7 @@ Master binary search in two-dimensional matrices — explore efficient searching
 
 | ⭐ Problem | Description | Code |
 |------------|--------------|------|
-| ⭐ Find the Row with Maximum 1s | Identify the row containing the maximum number of 1s in a sorted binary matrix | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Rowwith1s.java) |
+| ⭐ Find the Row with Maximum 1s | Identify the row containing the maximum number of 1s in a sorted binary matrix | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-2D/Rowwith1s.java) |
 
 ## 🔧 Prerequisites
 
