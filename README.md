@@ -131,12 +131,14 @@ Master binary search beyond basics — from rotated arrays to optimization probl
 
 Master binary search in two-dimensional matrices — explore efficient searching, counting, and optimization problems.
 
-| ⭐ Problem | Description | Code |
-|------------|--------------|------|
-| ⭐ Find the Row with Maximum 1s | Identify the row containing the maximum number of 1s in a sorted binary matrix | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-2D/Rowwith1s.java) |
-| ⭐ Search in 2D Sorted Matrix | Search for an element in a 2D matrix where each row and column are sorted | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-2D/Search2d.java) |
-| ⭐ Search in a Row and Column Wise Sorted Matrix | Efficiently search for a target in a matrix sorted both row-wise and column-wise | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-2D/Sreachin1and2.java) |
-| ⭐ Find Peak Element in 2D Matrix | Find a peak element in a 2D matrix using binary search for optimal performance | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-2D/Peakelement.java) |
+| ⭐ Problem                                       | Description                                                                        | Code                                                                                                                |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| ⭐ Find the Row with Maximum 1s                  | Identify the row containing the maximum number of 1s in a sorted binary matrix     | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-2D/Rowwith1s.java)     |
+| ⭐ Search in 2D Sorted Matrix                    | Search for an element in a 2D matrix where each row and column are sorted          | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-2D/Search2d.java)      |
+| ⭐ Search in a Row and Column Wise Sorted Matrix | Efficiently search for a target in a matrix sorted both row-wise and column-wise   | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-2D/Sreachin1and2.java) |
+| ⭐ Find Peak Element in 2D Matrix                | Find a peak element in a 2D matrix using binary search for optimal performance     | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-2D/Peakelement.java)   |
+| ⭐ Matrix Median                                 | Find the median of a row-wise sorted matrix using binary search on the value range | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-2D/Sreachin1and2.java) |
+
 
 ## 🔧 Prerequisites
 
