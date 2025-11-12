@@ -139,6 +139,18 @@ Master binary search in two-dimensional matrices — explore efficient searching
 | ⭐ Find Peak Element in 2D Matrix                | Find a peak element in a 2D matrix using binary search for optimal performance     | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-2D/Peakelement.java)   |
 | ⭐ Matrix Median                                 | Find the median of a row-wise sorted matrix using binary search on the value range | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-2D/Sreachin1and2.java) |
 
+---
+
+### 🧠 Phase 7: String – Easy
+
+Master fundamental string manipulation problems — practice parsing, reversing, counting, and pattern-based logic.
+
+| ⭐ Problem                      | Description                                                                                      | Code                                                                                                       |
+| ------------------------------ | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| ⭐ Remove Outermost Parentheses | Given a valid parentheses string, remove the outermost parentheses of every primitive substring. | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/String-Easy/Outermost.java) |
+
+---
+
 
 ## 🔧 Prerequisites
 
