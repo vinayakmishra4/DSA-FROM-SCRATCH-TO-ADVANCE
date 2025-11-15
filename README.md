@@ -148,6 +148,7 @@ Master fundamental string manipulation problems — practice parsing, reversing,
 | ⭐ Problem                      | Description                                                                                      | Code                                                                                                       |
 | ------------------------------ | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
 | ⭐ Remove Outermost Parentheses | Given a valid parentheses string, remove the outermost parentheses of every primitive substring. | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/String-Easy/Outermost.java) |
+| ⭐ Reverse the String           | Reverse the words in a given string                                                           | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/String-Easy/Reversewords.java) |
 
 ---
 
