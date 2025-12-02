@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 Master Data Structures & Algorithms in Java</h1>
+  <h1>🚀 Master Data Structures & Algorithms in Python</h1>
   <p><b>Beginner to Advanced – Crack Coding Interviews with Confidence 🔥</b></p>
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE?style=for-the-badge"/>
@@ -10,7 +10,7 @@
 
 ## 📝 Overview
 🌟 Unlock the secrets of coding interviews with a **step-by-step DSA roadmap**.  
-✅ Crystal-clear Java code  
+✅ Crystal-clear Python code  
 ✅ Stunning visuals & diagrams  
 ✅ Real-world problems with solutions  
 ✅ Beginner to Advanced progression  
