@@ -9,3 +9,4 @@ def number_right_angled_triangle(n):
         print()
 
 number_right_angled_triangle(number)
+
