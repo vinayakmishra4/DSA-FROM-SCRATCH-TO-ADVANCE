@@ -1,44 +1,23 @@
-// WAP to find out elements using linear sreach 
+# linear srearch in python
 
-import java.util.Scanner;
+def linear_search(arr, target):
+    for i in range(len(arr)):
+        if arr[i] == target:
+            return i
+    return -1
 
-class Linear 
-{
-   public static boolean  search(int arr[], int n, int x)
-   {
-       // Iterate through each element in the array
-       for(int i=0;i<n;i++)
-       {
-           // Check if current element matches the target
-           if(arr[i]==x)
-           {
-               // If match found, return true
-               return true;
-           }
-       }
-       // If no match found in the entire array, return false
-       return false;
-   }
-   public static void main(String[] args)
-   {
-       Scanner sc=new Scanner(System.in);
-       System.out.println("Size of Array");
-       int n=sc.nextInt();
-       int arr[]=new int[n];
-       System.out.println("Enter the elements of array");
-       for(int i=0;i<n;i++)
-       {
-        arr[i]=sc.nextInt();
-       }
-       System.out.println("Elements");
-       int x=sc.nextInt();
-       if(search(arr, n, x)) 
-       {
-         System.out.println("Element is present in array");
-       }
-       else
-       {
-         System.out.println("Element is not present in array");
-       }
-   }    
-}
+
+number_of_elements = int(input("Enter the number of elements in the array: "))
+array = []
+
+print("Enter the elements of the array:")
+for _ in range(number_of_elements):
+    element = int(input())
+    array.append(element)
+
+target_value = int(input("Enter the target value to search: "))
+result = linear_search(array, target_value)
+if result != -1:
+    print(f"Element found at index: {result}")
+else:
+    print("Element not found in the array.")
