@@ -23,8 +23,8 @@ print("Enter the elements of the array:")
 for _ in range(number_of_elements):
     element = int(input())
     array.append(element)
-largest_element = find_largest(array)
+largest_element = secondlargest(array)
 if largest_element is not None:
-    print(f"The largest element in the array is: {largest_element}")
+    print(f"The Second Largest element in the array is: {largest_element}")
 else:
     print("The array is empty.")
