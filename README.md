@@ -60,7 +60,7 @@ Build strong array fundamentals with classic yet powerful challenges that sharpe
 |--------|-------------|------|
 | ⭐ Largest Element | Find max in array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Maxout.java) |
 | ⭐ Second Largest | Without sorting | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/SecondMaxout.java) |
-| ⭐ Check if Sorted | Ascending check | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Sortedornot) |
+| ⭐ Check if Sorted | Ascending check | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Sortedornot.py) |
 | ⭐ Remove Duplicates | From sorted array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Remove.java) |
 | ⭐ Rotate by One | Left rotation | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/RotateLeft.java) |
 | ⭐ Move All Zeros | Push 0s to end | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Move0.java) |
