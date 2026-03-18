@@ -1,56 +1,21 @@
-// WAP to remove the duplicate elment in the array
-import java.util.Scanner;
+# WAP to remove the duplicate elment in the array
 
-class Remove
-{
-    public static int[] Remove(int arr[])
-    {
-        int n = arr.length;
-        // Boolean array to mark duplicates
-        boolean[] isDuplicate = new boolean[n];
-        int count = 0;
+def remove_duplicate(arr):
+    unique_elements = []
+    for element in arr:
+        if element not in unique_elements:
+            unique_elements.append(element)
+    return unique_elements
 
-        // Mark duplicates in the array
-        for (int i = 0; i < n; i++) {
-            if (!isDuplicate[i]) {
-                for (int j = i + 1; j < n; j++) {
-                    if (arr[i] == arr[j]) {
-                        isDuplicate[j] = true; // Mark duplicate element
-                        count++; // Increment duplicate count
-                    }
-                }
-            }
-        }
 
-        // Create new array to hold unique elements
-        int[] temp = new int[n - count];
-        int index = 0;
+# input array
 
-        // Copy unique elements to new array
-        for (int i = 0; i < n; i++) {
-            if (!isDuplicate[i]) {
-                temp[index++] = arr[i];
-            }
-        }
+num=int(input("Enter the number of elements in the array: "))
+arr = []
+for i in range(num):
+    element = int(input("Enter element {}: ".format(i + 1)))
+    arr.append(element)
 
-        return temp;
-    }
-    public static void main(String[] args)
-    {
-        Scanner sc=new Scanner(System.in);
-        System.out.println("Enter the size of array");
-        int n=sc.nextInt();
-        int arr[]=new int[n];
-        System.out.println("Enter the element of array");
-        for(int i=0;i<n;i++)
-        {
-            arr[i]=sc.nextInt();
-        }
-        int temp[]=Remove(arr);
-        System.out.println("Array after removing duplicate element");
-        for(int i=0;i<temp.length;i++)
-        {
-            System.out.print(temp[i]+" ");
-        }
-    }
-}
+# remove duplicates
+result = remove_duplicate(arr)
+print("Array after removing duplicates:", result)
