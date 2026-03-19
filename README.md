@@ -62,7 +62,7 @@ Build strong array fundamentals with classic yet powerful challenges that sharpe
 | ⭐ Second Largest | Without sorting | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/SecondMaxout.py) |
 | ⭐ Check if Sorted | Ascending check | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Sortedornot.py) |
 | ⭐ Remove Duplicates | From sorted array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Remove.py) |
-| ⭐ Rotate by One | Left rotation | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/RotateLeft.java) |
+| ⭐ Rotate by One | Left rotation | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/RotateLeft.py) |
 | ⭐ Move All Zeros | Push 0s to end | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Move0.java) |
 | ⭐ Linear Search | Find element | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Linear.py) |
 | ⭐ Union of Arrays | Merge without duplicates | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Union.java) |
