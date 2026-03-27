@@ -65,7 +65,7 @@ Build strong array fundamentals with classic yet powerful challenges that sharpe
 | ⭐ Rotate by One | Left rotation | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/RotateLeft.py) |
 | ⭐ Move All Zeros | Push 0s to end | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Move0.py) |
 | ⭐ Linear Search | Find element | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Linear.py) |
-| ⭐ Union of Arrays | Merge without duplicates | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Union.java) |
+| ⭐ Union of Arrays | Merge without duplicates | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Union.py) |
 | ⭐ Missing Element | In range 1-N | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Missing.java) |
 | ⭐ Max Consecutive 1s | Longest sequence | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/maxConsecBits.java) |
 | ⭐ Unique Element | Non-repeating | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Uniquele.java) |
