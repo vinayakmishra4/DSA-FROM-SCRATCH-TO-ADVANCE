@@ -1,48 +1,24 @@
-import java.util.Scanner;
+# WAP to find out the maximum number of Maximum Consecutive One's in the array
 
-public class maxConsecBits 
-{
-    public int ConsctiveBits(int[] arr) 
-    {
-        int len=arr.length;
-        int count =0;
-        for(int i=0;i<len;i++)
-        {
-            int temp=1;
-            for(int j=i+1;j<len;j++)
-            {
-                 if(arr[i]==arr[j])
-               { 
-                temp++;
-                i=j;
-              } 
-              else {            
+import math
 
-               break; 
-                  
-              }
-                
-                 }          
-                 
-               if (temp > count) 
-                count = temp;
-        }
-        
-          return count;
-        }
-    }
-    public static void main(String[] args)
-    {
-       Scanner sc=new Scanner(System.in);
-        System.out.println("Enter the size of array");
-        int n=sc.nextInt();
-        int arr[]=new int[n];
-        System.out.println("Enter the element of array");
-        for(int i=0;i<n;i++)
-        {
-            arr[i]=sc.nextInt();
-        }
-        maxConsecBits obj=new maxConsecBits();
-        System.out.println("Maximum consecutive bits are "+obj.ConsctiveBits(arr));
-    }
-}
+
+def maxConsecutiveOnes(arr):
+    max_count = 0
+    current_count = 0
+    for num in arr:
+        if num == 1:
+            current_count += 1
+            max_count = max(max_count, current_count)
+        else:
+            current_count = 0
+    return max_count
+
+
+nums = int(input("Enter the number of elements = "))
+arr = []
+for i in range(nums):
+    element = int(input("Enter the elements = "))
+    arr.append(element)
+
+print("Maximum Consecutive One's in the array =", maxConsecutiveOnes(arr))
