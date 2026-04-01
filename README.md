@@ -78,7 +78,7 @@ Here’s the updated table with the new problem added:
 
 | Problem                        | Description                                                                | Code                                                                                                                  |
 | ------------------------------ | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| ⭐ Two Sum                        | Indices summing to target                                                  | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Twosum.java)              |
+| ⭐ Two Sum                        | Indices summing to target                                                  | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Twosum.py)                |
 | ⭐ Sort 0s, 1s, 2s                | Dutch National Flag                                                        | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Sort012.java)             |
 | ⭐ Majority Element               | Appears > n/2 times                                                        | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Majortyelement.java)      |
 | ⭐ Max Subarray Sum               | Kadane’s Algorithm                                                         | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Maxsumarray.java)         |
