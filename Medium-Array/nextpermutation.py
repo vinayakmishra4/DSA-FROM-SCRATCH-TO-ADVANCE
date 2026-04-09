@@ -1,0 +1,1 @@
+# WAP to find next lexicographically greater permutation of a given array of integers. If such an arrangement is not possible, it must rearrange it as the lowest possible order (i.e., sorted in ascending order).
