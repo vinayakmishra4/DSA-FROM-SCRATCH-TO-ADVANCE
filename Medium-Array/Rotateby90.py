@@ -1,11 +1,13 @@
 #  Given an N * N 2D integer matrix, rotate the matrix by 90 degrees clockwise. The rotation must be done in place, meaning the input 2D matrix must be modified directly..
 def rotate(matrix):
     n = len(matrix)
+    # Reverse each row
+    for i in range(n):
+        matrix[i].reverse()
+    # Transpose the matrix
     for i in range(n):
         for j in range(i, n):
             matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
-    for i in range(n):
-        matrix[i].reverse()
 
 # Example usage:
 matrix = [[1, 2, 3],
