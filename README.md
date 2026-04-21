@@ -90,7 +90,7 @@ Here’s the updated table with the new problem added:
 | ⭐ Longest Increasing Subsequence | Find the length of the longest strictly increasing subsequence in an array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/LongestSubsequnence.py) |
 | ⭐ Set Matrix Zero           | Set entire row and column to zero if an element is zero                         | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/SetMatrixZero.py)       |
 | ⭐ Matrix in Spiral Form           | Traverse the matrix in a spiral order                                     | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Sprialform.py)          |
-| ⭐ Count Subarrays            | Count subarrays with a given XOR value                                         | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/CountSubarray.java)       |
+| ⭐ Count Subarrays            | Count subarrays with a given XOR value                                         | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/CountSubarray.py)       |
 
 ---
 
