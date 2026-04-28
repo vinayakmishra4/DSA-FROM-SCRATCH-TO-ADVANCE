@@ -26,6 +26,7 @@
 | Section | Link |
 |--------|------|
 | Phase 1: Sorting Algorithms | [Go](#-phase-1-sorting-algorithms) |
+| Algorithms | [Go](#-algorithms) |
 | Binary Search | [Go](#-binary-search) |
 | Phase 2: Easy Array Challenges | [Go](#-phase-2-easy-array-challenges) |
 | Phase 3: Medium Array Challenges | [Go](#-phase-3-medium-array-challenges) |
@@ -50,6 +51,14 @@
 | Selection Sort | [Read](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Selection_Sort.md) | [Python](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Selection.py) | All: O(n²) |
 | Quick Sort | [Read](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Quick_Sort.py) | [Python](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Quick_Sort.py) | Avg: O(n log n), Worst: O(n²) |
 | Merge Sort | [Read](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Merge_sort.md) | [Python](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Sort-Algo/Merge_sort.py) | All: O(n log n) |
+
+---
+
+### ⚡ Algorithms
+
+| Algorithm | Explanation | Code | Time Complexity |
+|-----------|-------------|------|-----------------|
+| Two Pointer | [Read](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Algorithm/Two-Poniter.md) | [Python](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Algorithm/twosum.py) | Time: O(n), Space: O(1) |
 
 ---
 
