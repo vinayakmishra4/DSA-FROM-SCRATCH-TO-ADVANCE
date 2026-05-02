@@ -44,7 +44,67 @@ def besum4(arr,target):
                         return True
     return False
 
+# optimal approach
+# two-pointer approach
+def opsum4(arr, target):
+    # Step 1: Sort the array
+    # Sorting helps in using two pointers and skipping duplicates easily
+    arr.sort()
+    
+    # Length of array
+    n = len(arr)
+    
+    # This will store all unique quadruplets
+    result = []
 
+    # Step 2: Fix the first element (i)
+    for i in range(n - 3):
+        # Skip duplicate values for i
+        if i > 0 and arr[i] == arr[i - 1]:
+            continue
+
+        # Step 3: Fix the second element (j)
+        for j in range(i + 1, n - 2):
+            # Skip duplicate values for j
+            if j > i + 1 and arr[j] == arr[j - 1]:
+                continue
+
+            # Step 4: Use two pointers for remaining two elements
+            left = j + 1          # Start just after j
+            right = n - 1         # Start from end of array
+
+            # Continue until pointers meet
+            while left < right:
+                # Calculate current sum
+                total = arr[i] + arr[j] + arr[left] + arr[right]
+
+                # Case 1: Found a valid quadruplet
+                if total == target:
+                    # Store the quadruplet (NOT the sum)
+                    result.append([arr[i], arr[j], arr[left], arr[right]])
+
+                    # Skip duplicate values for left pointer
+                    while left < right and arr[left] == arr[left + 1]:
+                        left += 1
+
+                    # Skip duplicate values for right pointer
+                    while left < right and arr[right] == arr[right - 1]:
+                        right -= 1
+
+                    # Move both pointers after finding a valid result
+                    left += 1
+                    right -= 1
+
+                # Case 2: Sum is too small → increase it
+                elif total < target:
+                    left += 1
+
+                # Case 3: Sum is too large → decrease it
+                else:
+                    right -= 1
+
+    # Return all unique quadruplets
+    return result
 
 
 
@@ -54,7 +114,7 @@ for i in range(nums):
     element = int(input("Enter element: "))
     arr.append(element)
 target = int(input("Enter the target sum: "))
-result = besum4(arr, target)
+result = opsum4(arr, target)
 if result:
     print("The sum of 4 numbers in the array is equal to the target.")
 else:
