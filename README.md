@@ -118,7 +118,7 @@
 | 🔥 3-Sum Problem | Find all triplets summing to zero | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Hard-Array/Sum3.py) |
 | 🔥 4-Sum Problem | Find all unique quadruplets summing to target | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Hard-Array/Sum4.py) |
 | 🔥 Count Inversions | Count pairs where left element > right element | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Hard-Array/CountInversion.py) |
-| 🔥 Merge Overlapping Intervals | Merge all overlapping intervals in an array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Hard-Array/MergeInterval.py) |
+| 🔥 Merge Overlapping Intervals | Merge all overlapping intervals in an array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Hard-Array/Overlapping.py) |
 | 🔥 Missing & Repeating Numbers | Find the missing and repeating element | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Hard-Array/MissingRepeating.py) |
 | 🔥 Largest Subarray with 0 Sum | Maximum length subarray with sum equal to zero | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Hard-Array/Largestsum0.py) |
 | 🔥 Longest Consecutive Sequence | Length of longest consecutive elements sequence | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Hard-Array/LongestConsecutive.py) |
