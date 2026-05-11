@@ -34,6 +34,21 @@ def beoverlapping(arr):
     # Return merged intervals
     return arr
 
+# optimal approch
+def beoverlapping(arr):
+    # Step 1: Sort intervals based on starting value
+    arr.sort()
+    merged = []
+    
+    for interval in arr:
+        # If merged is empty or current interval does not overlap with the last one in merged
+        if not merged or merged[-1][1] < interval[0]:
+            merged.append(interval)
+        else:
+            # Overlap exists, merge with the last interval in merged
+            merged[-1][1] = max(merged[-1][1], interval[1])
+    
+    return merged
 
 rows = int(input("Enter number of rows: "))
 cols = int(input("Enter number of columns: "))
