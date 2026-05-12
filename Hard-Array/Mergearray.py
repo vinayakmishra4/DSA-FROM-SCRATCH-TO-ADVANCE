@@ -1,67 +1,28 @@
-// https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1
+# WAP to Merge two Sorted Arrays Without Extra Space
+# geeks for geeks https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1
+# leetcode https://leetcode.com/problems/merge-sorted-array/description/
+# code360 https://www.naukri.com/code360/problems/merge-two-sorted-arrays-without-extra-space_6898839
 
-import java.util.Arrays;
-import java.util.Scanner;
+# Method 1:Using Extra Space
 
-class Mergearray {
-    // Function to merge two sorted arrays without extra space
-    public void mergeArrays(int a[], int b[]) {
-        int i = a.length - 1;  // Start from the end of array a
-        int j = 0;             // Start from the beginning of array b
+def merge(arr1, arr2):
+    merged = []
+    i, j = 0, 0
+    while i < len(arr1) and j < len(arr2):
+        if arr1[i] < arr2[j]:
+            merged.append(arr1[i])
+            i += 1
+        else:
+            merged.append(arr2[j])
+            j += 1
+    # Append any remaining elements from either array
+    merged.extend(arr1[i:])
+    merged.extend(arr2[j:])
+    return merged
 
-        // Swap elements if element in a is greater than element in b
-        // This pushes larger elements towards b and smaller towards a
-        while (i >= 0 && j < b.length) {
-            if (a[i] > b[j]) {
-                int temp = a[i];
-                a[i] = b[j];
-                b[j] = temp;
-                i--;
-                j++;
-            } else {
-                // If a[i] <= b[j], just move j forward to check next element in b
-                j++;
-            }
-        }
-
-        // After swapping, sort both arrays individually to restore sorted order
-        Arrays.sort(a);
-        Arrays.sort(b);
-    }
-
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-
-        // Read size of first array
-        System.out.print("Enter size of first sorted array: ");
-        int n = scanner.nextInt();
-        int[] a = new int[n];
-
-        // Read elements of first array
-        System.out.println("Enter elements of first sorted array:");
-        for (int i = 0; i < n; i++) {
-            a[i] = scanner.nextInt();
-        }
-
-        // Read size of second array
-        System.out.print("Enter size of second sorted array: ");
-        int m = scanner.nextInt();
-        int[] b = new int[m];
-
-        // Read elements of second array
-        System.out.println("Enter elements of second sorted array:");
-        for (int i = 0; i < m; i++) {
-            b[i] = scanner.nextInt();
-        }
-
-        Mergearray mergeObj = new Mergearray();
-        mergeObj.mergeArrays(a, b);
-
-        // Print the merged arrays
-        System.out.println("After merging:");
-        System.out.println("First array: " + Arrays.toString(a));
-        System.out.println("Second array: " + Arrays.toString(b));
-
-        scanner.close();
-    }
-}
+nums=int(input("Enter the size of first array: "))
+arr1 = list(map(int, input("Enter the elements of first array: ").split()))
+nums2=int(input("Enter the size of second array: "))
+arr2 = list(map(int, input("Enter the elements of second array: ").split()))
+result = merge(arr1, arr2)
+print("Merged array:", result)
