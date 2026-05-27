@@ -5,7 +5,7 @@
 # code360 https://www.naukri.com/code360/problems/find-the-repeating-and-missing-number_1062727
 
 # brute force
-def findTwoElement(arr, n):
+def brfindTwoElement(arr, n):
     # code here
     A = 0
     B = 0
@@ -23,7 +23,27 @@ def findTwoElement(arr, n):
 
     return [A, B]
 
+# better approach
+# using hashing
+def befindTwoElement(arr, n):
+    # code here
+    A = 0
+    B = 0
+    # Create a hash array to store the count of each element
+    hash_arr = [0] * (n + 1)
+    for i in range(n):
+        hash_arr[arr[i]] += 1
+    
+    # Traverse the hash array and find the repeating and missing elements
+    for i in range(1, n + 1):
+        if hash_arr[i] == 2:
+            A = i
+        elif hash_arr[i] == 0:
+            B = i
+
+    return [A, B]
+
 nums=int(input("Enter the size of the array: "))
 arr=list(map(int,input("Enter the elements of the array: ").split()))
-result=findTwoElement(arr,nums)
+result=brfindTwoElement(arr,nums)
 print("The repeating and missing numbers are: ", result)
