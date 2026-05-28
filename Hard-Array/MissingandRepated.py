@@ -43,7 +43,35 @@ def befindTwoElement(arr, n):
 
     return [A, B]
 
+# optimal approach
+# using mathematical formulas
+def opfindTwoElement(arr, n):
+    # code here
+    A = 0
+    B = 0
+    # Calculate the sum of the first n natural numbers and the sum of squares of the first n natural numbers
+    sum_n = n * (n + 1) // 2
+    sum_n_sq = n * (n + 1) * (2 * n + 1) // 6
+    
+    # Calculate the sum of the elements in the array and the sum of squares of the elements in the array
+    sum_arr = sum(arr)
+    sum_arr_sq = sum(x * x for x in arr)
+    
+    # Calculate A - B and A^2 - B^2
+    A_minus_B = sum_arr - sum_n
+    A_sq_minus_B_sq = sum_arr_sq - sum_n_sq
+    
+    # Calculate A + B using the formula (A^2 - B^2) / (A - B)
+    A_plus_B = A_sq_minus_B_sq // A_minus_B
+    
+    # Calculate A and B using the formulas A = (A + B) / 2 and B = (A + B) / 2 - A
+    A = (A_plus_B + A_minus_B) // 2
+    B = A_plus_B - A
+
+    return [A, B]
+
+
 nums=int(input("Enter the size of the array: "))
 arr=list(map(int,input("Enter the elements of the array: ").split()))
-result=brfindTwoElement(arr,nums)
+result=opfindTwoElement(arr,nums)
 print("The repeating and missing numbers are: ", result)
