@@ -13,11 +13,46 @@ def bereversePairs(nums):
                 count += 1
     return count
 
+# optimal approach
+# using merge sort
+def oprevesrparis(nums):
+    # The idea is to use a modified merge sort algorithm to count the reverse pairs while sorting the array. During the merge step, we can count how many elements in the right half of the array are less than half of the current element in the left half.
+    def merge_sort(nums, low, high):
+        if low >= high:
+            return 0
+        mid = (low + high) // 2
+        count = merge_sort(nums, low, mid) + merge_sort(nums, mid + 1, high)
+        j = mid + 1
+        for i in range(low, mid + 1):
+            while j <= high and nums[i] > 2 * nums[j]:
+                j += 1
+            count += j - (mid + 1)
+        # Merge the two sorted halves
+        temp = []
+        left, right = low, mid + 1
+        # Merge the two halves while counting the reverse pairs
+        while left <= mid and right <= high:
+            if nums[left] <= nums[right]:
+                temp.append(nums[left])
+                left += 1
+            else:
+                temp.append(nums[right])
+                right += 1
+        while left <= mid:
+            temp.append(nums[left])
+            left += 1
+        while right <= high:
+            temp.append(nums[right])
+            right += 1
+        for i in range(len(temp)):
+            nums[low + i] = temp[i]
+        return count
 
+    return merge_sort(nums, 0, len(nums) - 1)
 
 nums = int(input("Enter the number of elements in the array: "))
 arr = []
 for i in range(nums):
     num = int(input("Enter the element: "))
     arr.append(num)
-print("The count of reverse pairs is:", bereversePairs(arr))
+print("The count of reverse pairs (optimal approach) is:", oprevesrparis(arr))
