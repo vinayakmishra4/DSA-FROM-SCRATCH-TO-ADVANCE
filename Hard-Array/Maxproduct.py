@@ -1,59 +1,28 @@
-import java.util.Scanner;
+# WAP to Given an array that contains both negative and positive integers, find the maximum product subarray.
+# leetcode https://leetcode.com/problems/maximum-product-subarray/description/
+# geeks for geeks https://www.geeksforgeeks.org/problems/maximum-product-subarray3604/1
+# coding ninja https://www.naukri.com/code360/problems/maximum-product-subarray_1115474
 
-public class Maxproduct
-{
-   public static int maxProduct(int[] arr)
-   {
-        //brute force approach
-        // int n=arr.length;
-        // int max=arr[0];
-        // for(int i=0;i<n;i++)
-        // {
-        //     for(int j=i;j<n;j++)
-        //     {
-        //         int product=1;
-        //         for(int k=i;k<=j;k++)
-        //         {
-        //             product=product*arr[k];
-        //         }
-        //         if(product>max)
-        //         {
-        //             max=product;
-        //         }
-        //     }
-        // }
-        // return max;
-        //optimal approach
-        int n=arr.length;
-        int max=arr[0];
-        int min=arr[0];
-        int result=arr[0];
-        for(int i=1;i<n;i++)
-        {
-            if(arr[i]<0)
-            {
-                int temp=max;
-                max=min;
-                min=temp;      
-           }
-           max=Math.max(arr[i],max*arr[i]);
-           min=Math.min(arr[i],min*arr[i]);
-           result=Math.max(result,max);
-        } 
-        return result;
-    }
-    public static void main(String[] args)
-    {
-        Scanner sc=new Scanner(System.in);
-        System.out.println("Enter the size of array:");
-        int n=sc.nextInt();
-        int[] arr=new int[n];
-        System.out.println("Enter the elements of array:");
-        for(int i=0;i<n;i++)        
-        {
-            arr[i]=sc.nextInt();
-        }
-        int maxProduct=maxProduct(arr);
-        System.out.println("The maximum product subarray is: "+maxProduct);    
-    }   
-}
+# Approach 1: Brute Force
+# Time Complexity: O(n^2)
+def max_product_subarray(arr):
+    # Initialize the maximum product to negative infinity
+    n = len(arr)
+    max_product = float('-inf')
+
+    # Iterate through all possible subarrays
+    for i in range(n):
+        product = 1
+        for j in range(i, n):
+            product *= arr[j]
+            max_product = max(max_product, product)
+
+    return max_product
+
+num=int(input("Enter the number of elements in the array: "))
+arr=[]
+print("Enter the elements of the array: ")
+for i in range(num):
+    arr.append(int(input()))
+result = max_product_subarray(arr)
+print("The maximum product subarray is:", result)
