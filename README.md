@@ -127,33 +127,34 @@
 
 ### 🧠 Phase 5: Binary Search on 1D Arrays
 
-| Problem | Description | Code |
-|--------|-------------|------|
-| ⭐ Number of Occurrence | Count how many times a given element appears | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/NumberofOccurence.java) |
-| ⭐ First and Last Occurrence | Find the first and last indices of an element | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/FristandLast.java) |
-| ⭐ Floor and Ceil Value | Floor (≤ x) and ceil (≥ x) values for a target | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/FloorCiel.java) |
-| ⭐ Search Insert Position | Position to insert a target in sorted array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Sreachpostion.java) |
-| ⭐ Implement Upper Bound | First index strictly greater than x | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/UpperBound.java) |
-| ⭐ Implement Lower Bound | First index greater than or equal to x | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/tree/main/Binary-Sreach-1D) |
-| 🔍 Search in Sorted Array | Find index of target (returns -1 if not found) | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Sreach1.java) |
-| 🔍 Search in Sorted Array II | Find target in sorted array with duplicates | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Sreach2.java) |
-| 🌀 Minimum in Rotated Array | Find the minimum element in a rotated sorted array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/RotatedArrayMinFinder.java) |
-| 🔄 Find Rotation Count | How many times a sorted array has been rotated | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/ArrayRotation.java) |
-| 🔎 Search Single Element | Find the single non-duplicate in a sorted array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Single.java) |
-| ⛰️ Find Peak Element | Element greater than its neighbors | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Peak.java) |
-| 🧮 Square Root of a Number | Integer square root using binary search | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Squarert.java) |
-| 🧮 Nth Root of a Number | Nth root using precision-based binary search | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Nsqaure.java) |
-| 🍌 Koko Eating Bananas | Minimum eating speed to finish all bananas | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/KokoEatingBananas.java) |
-| 🌸 Minimum Days to Make M Bouquets | Minimum days to make M bouquets | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Mbouquets.java) |
-| 🔢 Find the Smallest Divisor | Smallest divisor with sum of divisions ≤ threshold | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Smalldivsor.java) |
-| 🚢 Capacity to Ship Within D Days | Least weight capacity to deliver all packages | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Shippment.java) |
-| 🐄 Aggressive Cows | Maximize minimum distance between cows | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Aggresivecows.java) |
-| 📚 Book Allocation Problem | Minimize the maximum pages assigned | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/bookallocation.java) |
-| ✂️ Split Array Largest Sum | Minimize largest sum among k subarrays | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/SplitArray.java) |
-| 🎨 Painter Allocation Problem | Minimize time to paint all boards | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Paniterallocation.java) |
-| ⛽ Gas Station | Starting gas station to complete a circular route | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/GasStation.java) |
-| ⚖️ Median of Two Sorted Arrays | O(log(min(n,m))) approach | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Medainarray.java) |
-| 🔢 Kth Element in Two Sorted Arrays | Kth smallest in union of two sorted arrays | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Kthelement.java) |
+| Problem                             | Description                                        | Code                                                                                                                      |
+| ----------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| ⭐ Number of Occurrence              | Count how many times a given element appears       | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/NumberofOccurence.py)     |
+| ⭐ First and Last Occurrence         | Find the first and last indices of an element      | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/FirstandLast.py)          |
+| ⭐ Floor and Ceil Value              | Floor (≤ x) and ceil (≥ x) values for a target     | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/FloorCeil.py)             |
+| ⭐ Search Insert Position            | Position to insert a target in sorted array        | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/SearchPosition.py)        |
+| ⭐ Implement Upper Bound             | First index strictly greater than x                | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/UpperBound.py)            |
+| ⭐ Implement Lower Bound             | First index greater than or equal to x             | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/LowerBound.py)            |
+| 🔍 Search in Sorted Array           | Find index of target (returns -1 if not found)     | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Search1.py)               |
+| 🔍 Search in Sorted Array II        | Find target in sorted array with duplicates        | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Search2.py)               |
+| 🌀 Minimum in Rotated Array         | Find the minimum element in a rotated sorted array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/RotatedArrayMinFinder.py) |
+| 🔄 Find Rotation Count              | How many times a sorted array has been rotated     | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/ArrayRotation.py)         |
+| 🔎 Search Single Element            | Find the single non-duplicate in a sorted array    | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Single.py)                |
+| ⛰️ Find Peak Element                | Element greater than its neighbors                 | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Peak.py)                  |
+| 🧮 Square Root of a Number          | Integer square root using binary search            | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/SquareRoot.py)            |
+| 🧮 Nth Root of a Number             | Nth root using precision-based binary search       | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/NthRoot.py)               |
+| 🍌 Koko Eating Bananas              | Minimum eating speed to finish all bananas         | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/KokoEatingBananas.py)     |
+| 🌸 Minimum Days to Make M Bouquets  | Minimum days to make M bouquets                    | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/MBouquets.py)             |
+| 🔢 Find the Smallest Divisor        | Smallest divisor with sum of divisions ≤ threshold | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/SmallDivisor.py)          |
+| 🚢 Capacity to Ship Within D Days   | Least weight capacity to deliver all packages      | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/Shipment.py)              |
+| 🐄 Aggressive Cows                  | Maximize minimum distance between cows             | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/AggressiveCows.py)        |
+| 📚 Book Allocation Problem          | Minimize the maximum pages assigned                | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/BookAllocation.py)        |
+| ✂️ Split Array Largest Sum          | Minimize largest sum among k subarrays             | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/SplitArray.py)            |
+| 🎨 Painter Allocation Problem       | Minimize time to paint all boards                  | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/PainterAllocation.py)     |
+| ⛽ Gas Station                       | Starting gas station to complete a circular route  | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/GasStation.py)            |
+| ⚖️ Median of Two Sorted Arrays      | O(log(min(n,m))) approach                          | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/MedianArray.py)           |
+| 🔢 Kth Element in Two Sorted Arrays | Kth smallest in union of two sorted arrays         | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-1D/KthElement.py)            |
+
 
 ---
 
