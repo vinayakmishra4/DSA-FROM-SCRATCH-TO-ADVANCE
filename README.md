@@ -1,23 +1,46 @@
 <div align="center">
 
-# 🚀 Master Data Structures & Algorithms in Python
+# 🚀 DSA From Scratch to Advance
 
-**Beginner to Advanced – Crack Coding Interviews with Confidence 🔥**
+**A step-by-step Python roadmap to learn Data Structures & Algorithms and crack coding interviews 🔥**
 
 ![Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE?style=for-the-badge)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-orange?style=for-the-badge)
 
 </div>
 
 ---
 
-## 📝 Overview
+## 📝 What is this repo?
 
-🌟 Unlock the secrets of coding interviews with a **step-by-step DSA roadmap.**
-✅ Crystal-clear Python code
-✅ Real-world problems with solutions
-✅ Beginner to Advanced progression
+**DSA** stands for **Data Structures & Algorithms** — the core problem-solving concepts every coding interview (Google, Amazon, Microsoft, and most tech companies) tests you on.
+
+If you're a student, self-taught developer, or job-seeker who finds DSA confusing or overwhelming, this repo is built for you. It breaks the entire subject into **7 small, ordered phases** — starting from the absolute basics and slowly building up to interview-level problems.
+
+🌟 **What you get:**
+- ✅ A clear, beginner-friendly roadmap (no guessing what to learn next)
+- ✅ Clean, well-explained Python code for every problem
+- ✅ Real interview-style problems with working solutions
+- ✅ A natural progression from Beginner → Advanced
+
+> 💡 **New here?** Skip to [How to Use This Repo](#-how-to-use-this-repo) for a quick start guide before diving into the problems.
+
+---
+
+## 🗺️ Learning Roadmap
+
+Here's the recommended order to work through this repo. Each phase builds on the one before it:
+
+```
+   Sorting   →    Arrays    →  Binary Search  →   Strings
+ (Bubble to     (Easy to       (1D and 2D       (Easy
+  Merge Sort)    Hard)          Arrays)          Problems)
+```
+
+Don't worry about doing every problem in a phase before moving on — even covering the ⭐ starred ones first will build solid fundamentals.
 
 ---
 
@@ -25,6 +48,7 @@
 
 | Section | Link |
 |--------|------|
+| How to Use This Repo | [Go](#-how-to-use-this-repo) |
 | Phase 1: Sorting Algorithms | [Go](#-phase-1-sorting-algorithms) |
 | Algorithms | [Go](#-algorithms) |
 | Binary Search | [Go](#-binary-search) |
@@ -35,8 +59,21 @@
 | Phase 6: Binary Search in 2D Arrays | [Go](#-phase-6-binary-search-in-2d-arrays) |
 | Phase 7: Strings – Easy | [Go](#-phase-7-strings--easy) |
 | Prerequisites | [Go](#-prerequisites) |
+| FAQ | [Go](#-faq) |
 | Contributing | [Go](#-contributing) |
 | License | [Go](#-license) |
+
+---
+
+## 🧭 How to Use This Repo
+
+1. **Start at Phase 1** (Sorting Algorithms) and move through the phases in order — they're designed to build on each other.
+2. Each problem links to two things:
+   - **Read** — a short explanation of the approach and logic
+   - **Code** — the working solution you can run yourself
+3. Try solving the problem yourself first, then compare your approach with the provided solution.
+4. Don't skip the ⭐-marked problems — these are the most commonly asked in real interviews.
+5. A few legacy solutions are written in **Java** instead of Python (clearly marked where they appear) — everything else in this repo is Python.
 
 ---
 
@@ -65,9 +102,11 @@
 
 ### 🔍 Binary Search
 
+> 🟡 *This section uses a legacy Java solution. All Python solutions for binary search live in [Phase 5](#-phase-5-binary-search-on-1d-arrays) and [Phase 6](#-phase-6-binary-search-in-2d-arrays) below.*
+
 | Topic | Notes | Code |
 |-------|-------|------|
-| Binary Search | [Read](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach/BinarySreach.md) | [Java](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach/Sreach.java) |
+| Binary Search | [Read](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach/BinarySreach.md) | [Java (legacy)](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach/Sreach.java) |
 
 ---
 
@@ -86,7 +125,7 @@
 | ⭐ Missing Element | In range 1-N | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Missing.py) |
 | ⭐ Max Consecutive 1s | Longest sequence | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/maxConsecBits.py) |
 | ⭐ Unique Element | Non-repeating | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Easy-Array/Uniquele.py) |
-| ⭐ Rotate Matrix by 90° | Rotate 2D array | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Rotateby90.java) |
+| ⭐ Rotate Matrix by 90° | Rotate 2D array | [Code (Java, legacy)](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Medium-Array/Rotateby90.java) |
 
 ---
 
@@ -160,6 +199,8 @@
 
 ### 🧠 Phase 6: Binary Search in 2D Arrays
 
+> 🟡 *All solutions in this phase are legacy Java code.*
+
 | Problem | Description | Code |
 |--------|-------------|------|
 | ⭐ Find the Row with Maximum 1s | Row with most 1s in a sorted binary matrix | [Code](https://github.com/vinayakmishra4/DSA-FROM-SCRATCH-TO-ADVANCE/blob/main/Binary-Sreach-2D/Rowwith1s.java) |
@@ -171,6 +212,8 @@
 ---
 
 ### 🧠 Phase 7: Strings – Easy
+
+> 🟡 *All solutions in this phase are legacy Java code.*
 
 | Problem | Description | Code |
 |--------|-------------|------|
@@ -185,9 +228,29 @@
 
 Before getting started, ensure you have:
 
-- ☕ **Java 8 or above** – your brewing engine for coding
-- 💻 **Java-friendly IDE** – IntelliJ, Eclipse, or VS Code
-- 🧠 **Programming basics** – logic, loops, and love for learning
+- 🐍 **Python 3.8 or above** – this repo's primary language
+- ☕ **Java 8 or above** *(optional)* – only needed for the legacy Java solutions in [Binary Search](#-binary-search), [Phase 6](#-phase-6-binary-search-in-2d-arrays), and [Phase 7](#-phase-7-strings--easy)
+- 💻 **A code editor** – VS Code, PyCharm, IntelliJ, or any editor you're comfortable with
+- 🧠 **Programming basics** – logic, loops, and a willingness to learn
+
+---
+
+## ❓ FAQ
+
+**What does DSA mean?**
+DSA stands for Data Structures & Algorithms — the foundational concepts (arrays, sorting, searching, etc.) used to solve coding problems efficiently. It's the most common topic tested in technical interviews.
+
+**Do I need to know Python before starting?**
+Basic programming knowledge helps (variables, loops, functions), but you don't need to be an expert. Each solution is written to be easy to follow, and you can learn Python concepts as you go.
+
+**Why are some solutions in Java instead of Python?**
+A handful of older solutions (clearly marked 🟡 *legacy*) haven't been converted to Python yet. Everything else in this repo is Python. Want to help convert them? See [Contributing](#-contributing).
+
+**I'm not preparing for interviews — can I still use this?**
+Yes. This roadmap is just as useful if you're learning DSA for college, competitive programming, or general problem-solving skills.
+
+**Where should I start if I'm a complete beginner?**
+Start at [Phase 1: Sorting Algorithms](#-phase-1-sorting-algorithms) and follow the [Learning Roadmap](#️-learning-roadmap) in order.
 
 ---
 
