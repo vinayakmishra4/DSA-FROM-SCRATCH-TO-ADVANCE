@@ -5,9 +5,23 @@
 
 # find or inset in the array 
 def searchInsertK(arr, k):
-    for i in range(len(arr)):
-        if arr[i]==k :
-            return i        
+    # assigned the left and right pointer to the first and last index of the array
+    left = 0
+    right = len(arr) - 1
+
+    # loop until the left pointer is less than or equal to the right pointer
+    while left <= right:
+        mid = (left + right) // 2
+
+        if arr[mid] == k:
+            return mid
+        elif arr[mid] < k:
+            left = mid + 1
+        else:
+            right = mid - 1
+
+    return left
+                
 
 
 
